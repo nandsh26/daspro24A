@@ -1,0 +1,1001 @@
+,Usia,Gender,Wahana,Asal Kota,Jenis Tiket,Waktu Kunjungan,Cuaca,Antrian,Metode Bayar,Kepuasan
+0,43,L,Roller Coaster,Jakarta,Reguler,Malam,Mendung,Sedang,E-Money,Cukup
+1,14,P,Rumah Hantu,Jakarta,Promo,Sore,Cerah,Panjang,Kartu Kredit,Puas
+2,16,P,Roller Coaster,Surabaya,VIP,Sore,Hujan,Pendek,E-Money,Cukup
+3,32,L,Bianglala,Jakarta,Reguler,Sore,Mendung,Pendek,E-Money,Tidak Puas
+4,12,P,Bianglala,Surabaya,Promo,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+5,15,P,Kora-kora,Bandung,Promo,Sore,Cerah,Sedang,Cash,Puas
+6,18,P,Kora-kora,Jakarta,Promo,Malam,Cerah,Pendek,Kartu Kredit,Puas
+7,54,L,Bianglala,Bandung,VIP,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+8,30,L,Roller Coaster,Yogyakarta,Reguler,Sore,Cerah,Sedang,Cash,Tidak Puas
+9,29,L,Roller Coaster,Jakarta,VIP,Sore,Mendung,Pendek,Kartu Kredit,Cukup
+10,55,P,Roller Coaster,Surabaya,Promo,Siang,Hujan,Sedang,E-Money,Tidak Puas
+11,47,L,Roller Coaster,Bandung,VIP,Malam,Mendung,Pendek,Kartu Kredit,Cukup
+12,49,L,Bianglala,Jakarta,Promo,Malam,Mendung,Sedang,E-Money,Cukup
+13,36,L,Bianglala,Bandung,VIP,Sore,Mendung,Pendek,Kartu Kredit,Puas
+14,48,P,Roller Coaster,Bandung,Promo,Pagi,Cerah,Panjang,E-Money,Puas
+15,40,P,Kora-kora,Bandung,VIP,Malam,Hujan,Panjang,E-Money,Puas
+16,48,P,Bianglala,Jakarta,VIP,Malam,Hujan,Sedang,Cash,Puas
+17,41,P,Rumah Hantu,Yogyakarta,Reguler,Siang,Mendung,Panjang,E-Money,Puas
+18,10,L,Rumah Hantu,Bandung,Reguler,Sore,Mendung,Panjang,E-Money,Tidak Puas
+19,52,L,Kora-kora,Yogyakarta,Reguler,Pagi,Cerah,Sedang,Kartu Kredit,Tidak Puas
+20,12,L,Kora-kora,Yogyakarta,VIP,Siang,Mendung,Pendek,E-Money,Tidak Puas
+21,30,P,Roller Coaster,Bandung,VIP,Malam,Hujan,Sedang,Kartu Kredit,Tidak Puas
+22,29,P,Kora-kora,Surabaya,VIP,Sore,Hujan,Sedang,E-Money,Puas
+23,53,L,Kora-kora,Surabaya,VIP,Sore,Hujan,Panjang,Cash,Cukup
+24,13,P,Kora-kora,Jakarta,VIP,Pagi,Cerah,Panjang,Cash,Cukup
+25,12,P,Roller Coaster,Jakarta,Reguler,Siang,Mendung,Panjang,Cash,Cukup
+26,56,P,Kora-kora,Surabaya,Promo,Sore,Cerah,Panjang,E-Money,Tidak Puas
+27,15,P,Kora-kora,Bandung,VIP,Siang,Mendung,Sedang,Cash,Tidak Puas
+28,49,L,Bianglala,Bandung,Promo,Sore,Hujan,Sedang,Kartu Kredit,Cukup
+29,49,L,Kora-kora,Yogyakarta,VIP,Pagi,Mendung,Pendek,E-Money,Cukup
+30,42,P,Kora-kora,Jakarta,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+31,17,P,Kora-kora,Surabaya,VIP,Pagi,Cerah,Sedang,E-Money,Puas
+32,26,P,Kora-kora,Surabaya,Promo,Sore,Cerah,Panjang,Kartu Kredit,Puas
+33,12,L,Bianglala,Surabaya,VIP,Pagi,Mendung,Sedang,E-Money,Cukup
+34,27,P,Roller Coaster,Yogyakarta,Reguler,Sore,Cerah,Sedang,E-Money,Puas
+35,48,P,Kora-kora,Bandung,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Tidak Puas
+36,53,L,Bianglala,Yogyakarta,Promo,Siang,Hujan,Pendek,Kartu Kredit,Cukup
+37,37,L,Bianglala,Surabaya,Promo,Malam,Hujan,Pendek,Cash,Cukup
+38,14,P,Rumah Hantu,Bandung,VIP,Siang,Hujan,Sedang,E-Money,Cukup
+39,23,L,Bianglala,Yogyakarta,Reguler,Pagi,Mendung,Panjang,Cash,Tidak Puas
+40,47,L,Rumah Hantu,Yogyakarta,Reguler,Malam,Mendung,Sedang,Cash,Puas
+41,10,L,Rumah Hantu,Yogyakarta,VIP,Siang,Cerah,Panjang,Cash,Cukup
+42,24,P,Roller Coaster,Surabaya,VIP,Sore,Hujan,Sedang,Cash,Cukup
+43,34,P,Rumah Hantu,Yogyakarta,Reguler,Sore,Cerah,Pendek,E-Money,Tidak Puas
+44,17,P,Roller Coaster,Surabaya,Promo,Siang,Hujan,Pendek,E-Money,Cukup
+45,38,P,Bianglala,Jakarta,Reguler,Siang,Mendung,Pendek,Cash,Cukup
+46,41,P,Roller Coaster,Yogyakarta,Reguler,Siang,Mendung,Pendek,E-Money,Puas
+47,38,P,Kora-kora,Yogyakarta,VIP,Malam,Cerah,Panjang,E-Money,Puas
+48,36,L,Kora-kora,Jakarta,Reguler,Siang,Hujan,Pendek,E-Money,Cukup
+49,57,L,Bianglala,Jakarta,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Puas
+50,23,P,Bianglala,Surabaya,VIP,Malam,Mendung,Sedang,Kartu Kredit,Puas
+51,41,P,Rumah Hantu,Surabaya,Reguler,Sore,Mendung,Sedang,Cash,Puas
+52,19,P,Bianglala,Jakarta,Promo,Malam,Cerah,Pendek,E-Money,Cukup
+53,13,P,Rumah Hantu,Jakarta,Reguler,Malam,Mendung,Panjang,Kartu Kredit,Cukup
+54,12,L,Roller Coaster,Jakarta,VIP,Pagi,Cerah,Panjang,E-Money,Cukup
+55,19,L,Bianglala,Jakarta,VIP,Pagi,Cerah,Sedang,E-Money,Puas
+56,42,L,Kora-kora,Bandung,VIP,Pagi,Hujan,Pendek,E-Money,Tidak Puas
+57,56,P,Bianglala,Surabaya,VIP,Pagi,Cerah,Sedang,Kartu Kredit,Tidak Puas
+58,33,L,Bianglala,Surabaya,Promo,Siang,Cerah,Sedang,E-Money,Puas
+59,10,L,Kora-kora,Yogyakarta,Reguler,Siang,Mendung,Pendek,Cash,Puas
+60,20,P,Kora-kora,Jakarta,Reguler,Sore,Cerah,Pendek,Kartu Kredit,Puas
+61,23,P,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Sedang,Kartu Kredit,Cukup
+62,55,P,Roller Coaster,Yogyakarta,Promo,Malam,Mendung,Pendek,E-Money,Tidak Puas
+63,24,P,Rumah Hantu,Surabaya,VIP,Siang,Cerah,Pendek,Cash,Puas
+64,23,L,Roller Coaster,Jakarta,Reguler,Malam,Mendung,Panjang,E-Money,Tidak Puas
+65,18,L,Roller Coaster,Jakarta,VIP,Pagi,Mendung,Panjang,Kartu Kredit,Tidak Puas
+66,10,L,Bianglala,Surabaya,VIP,Sore,Hujan,Panjang,Cash,Tidak Puas
+67,39,L,Bianglala,Bandung,Reguler,Siang,Hujan,Panjang,Cash,Cukup
+68,53,L,Roller Coaster,Bandung,Reguler,Sore,Mendung,Sedang,Cash,Tidak Puas
+69,17,L,Bianglala,Bandung,Promo,Sore,Cerah,Sedang,Cash,Tidak Puas
+70,42,L,Kora-kora,Surabaya,Promo,Sore,Cerah,Pendek,Kartu Kredit,Tidak Puas
+71,20,P,Roller Coaster,Bandung,Promo,Malam,Mendung,Sedang,Cash,Cukup
+72,17,P,Rumah Hantu,Yogyakarta,Promo,Sore,Hujan,Sedang,Kartu Kredit,Cukup
+73,19,L,Rumah Hantu,Yogyakarta,Promo,Siang,Mendung,Panjang,E-Money,Cukup
+74,29,P,Rumah Hantu,Yogyakarta,VIP,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+75,52,L,Bianglala,Bandung,VIP,Siang,Hujan,Pendek,Cash,Cukup
+76,57,P,Kora-kora,Surabaya,Promo,Malam,Cerah,Sedang,Kartu Kredit,Puas
+77,48,L,Kora-kora,Surabaya,Reguler,Malam,Mendung,Panjang,Cash,Tidak Puas
+78,39,P,Kora-kora,Yogyakarta,Reguler,Siang,Mendung,Pendek,Kartu Kredit,Puas
+79,57,P,Bianglala,Bandung,VIP,Pagi,Hujan,Panjang,E-Money,Puas
+80,24,L,Rumah Hantu,Yogyakarta,Reguler,Siang,Mendung,Sedang,Cash,Puas
+81,48,P,Kora-kora,Surabaya,VIP,Malam,Hujan,Pendek,Kartu Kredit,Tidak Puas
+82,18,L,Roller Coaster,Jakarta,VIP,Pagi,Mendung,Panjang,E-Money,Puas
+83,27,L,Bianglala,Yogyakarta,Reguler,Pagi,Hujan,Sedang,Kartu Kredit,Cukup
+84,29,P,Kora-kora,Yogyakarta,Reguler,Sore,Mendung,Pendek,E-Money,Puas
+85,30,P,Bianglala,Yogyakarta,VIP,Malam,Mendung,Panjang,Cash,Cukup
+86,46,L,Roller Coaster,Surabaya,VIP,Pagi,Cerah,Sedang,Kartu Kredit,Cukup
+87,43,L,Rumah Hantu,Surabaya,Reguler,Malam,Mendung,Panjang,E-Money,Tidak Puas
+88,32,P,Roller Coaster,Surabaya,Promo,Pagi,Hujan,Sedang,Cash,Cukup
+89,29,L,Bianglala,Yogyakarta,Promo,Siang,Mendung,Panjang,Kartu Kredit,Tidak Puas
+90,41,L,Rumah Hantu,Jakarta,Promo,Malam,Cerah,Pendek,Cash,Tidak Puas
+91,20,L,Kora-kora,Bandung,Promo,Siang,Mendung,Panjang,Cash,Cukup
+92,44,L,Kora-kora,Jakarta,Reguler,Malam,Hujan,Sedang,E-Money,Cukup
+93,22,P,Rumah Hantu,Jakarta,Promo,Siang,Cerah,Panjang,Cash,Puas
+94,53,L,Rumah Hantu,Bandung,Promo,Pagi,Mendung,Pendek,Cash,Tidak Puas
+95,22,P,Bianglala,Surabaya,Reguler,Siang,Hujan,Sedang,Cash,Puas
+96,44,P,Rumah Hantu,Yogyakarta,Promo,Sore,Mendung,Sedang,Kartu Kredit,Puas
+97,11,L,Bianglala,Jakarta,Promo,Pagi,Mendung,Panjang,Kartu Kredit,Tidak Puas
+98,18,L,Bianglala,Yogyakarta,Reguler,Siang,Hujan,Sedang,Cash,Tidak Puas
+99,58,L,Kora-kora,Jakarta,VIP,Malam,Mendung,Pendek,Kartu Kredit,Puas
+100,50,L,Roller Coaster,Jakarta,Promo,Malam,Hujan,Panjang,E-Money,Tidak Puas
+101,45,L,Roller Coaster,Surabaya,Reguler,Siang,Hujan,Sedang,E-Money,Puas
+102,54,P,Bianglala,Jakarta,Reguler,Malam,Cerah,Sedang,Kartu Kredit,Cukup
+103,48,P,Roller Coaster,Bandung,VIP,Pagi,Cerah,Pendek,Cash,Tidak Puas
+104,12,L,Kora-kora,Jakarta,Reguler,Pagi,Mendung,Sedang,E-Money,Tidak Puas
+105,11,P,Rumah Hantu,Surabaya,Promo,Sore,Hujan,Panjang,Kartu Kredit,Tidak Puas
+106,21,P,Kora-kora,Yogyakarta,Reguler,Siang,Mendung,Panjang,Kartu Kredit,Puas
+107,16,L,Roller Coaster,Bandung,VIP,Pagi,Mendung,Sedang,Cash,Cukup
+108,43,L,Kora-kora,Jakarta,Promo,Pagi,Mendung,Pendek,Cash,Puas
+109,27,L,Kora-kora,Jakarta,VIP,Pagi,Hujan,Sedang,Kartu Kredit,Cukup
+110,11,P,Kora-kora,Surabaya,Promo,Siang,Mendung,Pendek,E-Money,Puas
+111,51,P,Rumah Hantu,Bandung,Reguler,Malam,Cerah,Pendek,Cash,Cukup
+112,34,L,Rumah Hantu,Jakarta,Promo,Pagi,Mendung,Panjang,Cash,Cukup
+113,12,P,Kora-kora,Jakarta,Promo,Pagi,Cerah,Panjang,Kartu Kredit,Tidak Puas
+114,27,L,Roller Coaster,Jakarta,VIP,Sore,Mendung,Pendek,E-Money,Cukup
+115,53,P,Roller Coaster,Surabaya,VIP,Siang,Cerah,Panjang,Kartu Kredit,Cukup
+116,48,L,Roller Coaster,Surabaya,Promo,Sore,Hujan,Pendek,Cash,Tidak Puas
+117,31,P,Rumah Hantu,Bandung,VIP,Pagi,Hujan,Pendek,E-Money,Tidak Puas
+118,43,P,Kora-kora,Surabaya,Reguler,Siang,Mendung,Pendek,E-Money,Tidak Puas
+119,40,L,Bianglala,Surabaya,VIP,Pagi,Mendung,Sedang,E-Money,Puas
+120,44,P,Bianglala,Jakarta,Reguler,Siang,Mendung,Panjang,Kartu Kredit,Puas
+121,20,P,Bianglala,Jakarta,VIP,Malam,Cerah,Pendek,Cash,Puas
+122,40,P,Roller Coaster,Surabaya,Reguler,Sore,Mendung,Pendek,E-Money,Cukup
+123,23,P,Bianglala,Jakarta,VIP,Pagi,Cerah,Pendek,E-Money,Cukup
+124,51,L,Kora-kora,Jakarta,Promo,Siang,Hujan,Panjang,E-Money,Cukup
+125,47,P,Bianglala,Surabaya,Promo,Malam,Mendung,Panjang,Kartu Kredit,Puas
+126,30,L,Kora-kora,Bandung,VIP,Sore,Cerah,Panjang,Cash,Puas
+127,26,L,Rumah Hantu,Jakarta,Promo,Sore,Hujan,Panjang,E-Money,Tidak Puas
+128,30,P,Rumah Hantu,Yogyakarta,Reguler,Sore,Hujan,Pendek,E-Money,Puas
+129,58,P,Kora-kora,Bandung,Reguler,Sore,Hujan,Sedang,Cash,Puas
+130,22,L,Roller Coaster,Yogyakarta,VIP,Pagi,Hujan,Sedang,Kartu Kredit,Tidak Puas
+131,26,P,Bianglala,Yogyakarta,VIP,Siang,Mendung,Panjang,E-Money,Puas
+132,42,L,Rumah Hantu,Surabaya,Promo,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+133,29,L,Bianglala,Yogyakarta,Promo,Sore,Hujan,Pendek,E-Money,Tidak Puas
+134,33,P,Kora-kora,Surabaya,Promo,Sore,Hujan,Sedang,E-Money,Tidak Puas
+135,56,P,Roller Coaster,Surabaya,VIP,Pagi,Cerah,Panjang,Cash,Puas
+136,40,L,Rumah Hantu,Yogyakarta,VIP,Pagi,Cerah,Pendek,E-Money,Cukup
+137,17,L,Bianglala,Surabaya,Reguler,Siang,Hujan,Panjang,Kartu Kredit,Cukup
+138,14,P,Rumah Hantu,Surabaya,Reguler,Sore,Cerah,Panjang,Cash,Tidak Puas
+139,37,P,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Panjang,E-Money,Tidak Puas
+140,28,P,Bianglala,Surabaya,Promo,Sore,Hujan,Panjang,Cash,Tidak Puas
+141,37,P,Kora-kora,Bandung,Promo,Siang,Mendung,Pendek,E-Money,Puas
+142,37,P,Roller Coaster,Bandung,Reguler,Pagi,Cerah,Sedang,Kartu Kredit,Tidak Puas
+143,27,L,Bianglala,Surabaya,Reguler,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+144,25,P,Rumah Hantu,Bandung,Reguler,Siang,Hujan,Panjang,E-Money,Tidak Puas
+145,19,P,Bianglala,Surabaya,VIP,Malam,Mendung,Pendek,E-Money,Tidak Puas
+146,12,L,Kora-kora,Yogyakarta,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Puas
+147,31,P,Roller Coaster,Jakarta,Promo,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+148,20,P,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+149,31,L,Bianglala,Yogyakarta,Reguler,Siang,Hujan,Panjang,E-Money,Cukup
+150,40,P,Kora-kora,Jakarta,VIP,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+151,43,L,Bianglala,Bandung,Promo,Pagi,Mendung,Panjang,Kartu Kredit,Tidak Puas
+152,54,L,Roller Coaster,Yogyakarta,Promo,Malam,Hujan,Panjang,Kartu Kredit,Puas
+153,28,L,Rumah Hantu,Yogyakarta,VIP,Siang,Hujan,Sedang,Kartu Kredit,Puas
+154,20,L,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Panjang,Cash,Cukup
+155,24,L,Roller Coaster,Bandung,Reguler,Malam,Cerah,Sedang,Cash,Tidak Puas
+156,17,L,Kora-kora,Bandung,VIP,Malam,Mendung,Pendek,Kartu Kredit,Cukup
+157,37,L,Bianglala,Yogyakarta,VIP,Sore,Mendung,Sedang,E-Money,Cukup
+158,32,L,Bianglala,Bandung,Promo,Pagi,Mendung,Sedang,Cash,Cukup
+159,38,P,Bianglala,Surabaya,VIP,Malam,Mendung,Sedang,Kartu Kredit,Cukup
+160,50,L,Roller Coaster,Jakarta,VIP,Sore,Cerah,Sedang,E-Money,Puas
+161,27,P,Bianglala,Yogyakarta,Promo,Malam,Hujan,Pendek,Cash,Cukup
+162,13,L,Rumah Hantu,Jakarta,Reguler,Sore,Mendung,Panjang,E-Money,Cukup
+163,44,P,Rumah Hantu,Jakarta,Promo,Sore,Mendung,Panjang,E-Money,Cukup
+164,44,P,Bianglala,Jakarta,VIP,Pagi,Hujan,Sedang,E-Money,Puas
+165,19,L,Bianglala,Surabaya,Reguler,Malam,Hujan,Panjang,E-Money,Tidak Puas
+166,35,L,Kora-kora,Surabaya,Reguler,Sore,Hujan,Sedang,Cash,Puas
+167,49,L,Roller Coaster,Jakarta,Promo,Malam,Mendung,Pendek,Cash,Cukup
+168,40,L,Kora-kora,Bandung,VIP,Siang,Cerah,Sedang,Cash,Cukup
+169,39,L,Bianglala,Yogyakarta,Promo,Pagi,Hujan,Pendek,Kartu Kredit,Puas
+170,16,L,Bianglala,Jakarta,VIP,Malam,Mendung,Sedang,Kartu Kredit,Puas
+171,28,L,Rumah Hantu,Surabaya,VIP,Pagi,Hujan,Sedang,E-Money,Puas
+172,49,P,Kora-kora,Bandung,Reguler,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+173,45,L,Rumah Hantu,Surabaya,VIP,Sore,Hujan,Panjang,E-Money,Cukup
+174,54,L,Kora-kora,Surabaya,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Puas
+175,13,L,Kora-kora,Surabaya,Promo,Malam,Cerah,Pendek,Cash,Cukup
+176,23,P,Kora-kora,Jakarta,VIP,Malam,Mendung,Sedang,Cash,Puas
+177,59,L,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Pendek,Cash,Cukup
+178,53,L,Bianglala,Yogyakarta,Promo,Sore,Hujan,Panjang,Kartu Kredit,Puas
+179,36,L,Bianglala,Jakarta,Reguler,Siang,Cerah,Panjang,Kartu Kredit,Puas
+180,51,L,Rumah Hantu,Surabaya,VIP,Sore,Mendung,Pendek,Cash,Cukup
+181,40,L,Roller Coaster,Surabaya,Promo,Malam,Hujan,Panjang,Cash,Puas
+182,51,P,Kora-kora,Jakarta,VIP,Pagi,Hujan,Sedang,Kartu Kredit,Puas
+183,32,L,Roller Coaster,Yogyakarta,Promo,Sore,Mendung,Panjang,Cash,Cukup
+184,59,L,Roller Coaster,Jakarta,Reguler,Siang,Mendung,Sedang,Kartu Kredit,Cukup
+185,41,P,Rumah Hantu,Jakarta,Promo,Malam,Hujan,Sedang,Cash,Tidak Puas
+186,20,P,Rumah Hantu,Yogyakarta,Reguler,Sore,Mendung,Sedang,E-Money,Puas
+187,22,P,Bianglala,Yogyakarta,Reguler,Pagi,Cerah,Sedang,Cash,Tidak Puas
+188,31,P,Rumah Hantu,Jakarta,Promo,Sore,Hujan,Panjang,E-Money,Cukup
+189,17,P,Bianglala,Bandung,VIP,Pagi,Cerah,Panjang,Cash,Puas
+190,35,L,Rumah Hantu,Jakarta,Reguler,Sore,Cerah,Panjang,Kartu Kredit,Cukup
+191,56,L,Roller Coaster,Jakarta,Promo,Siang,Mendung,Panjang,Cash,Puas
+192,17,L,Kora-kora,Yogyakarta,Promo,Malam,Cerah,Sedang,E-Money,Puas
+193,54,P,Kora-kora,Bandung,VIP,Malam,Hujan,Panjang,E-Money,Cukup
+194,40,L,Rumah Hantu,Yogyakarta,VIP,Siang,Hujan,Pendek,Kartu Kredit,Cukup
+195,34,P,Bianglala,Yogyakarta,Reguler,Pagi,Cerah,Panjang,Cash,Tidak Puas
+196,52,P,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Panjang,E-Money,Puas
+197,47,P,Bianglala,Surabaya,Reguler,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+198,22,P,Roller Coaster,Bandung,VIP,Pagi,Hujan,Panjang,Cash,Puas
+199,58,P,Roller Coaster,Surabaya,Reguler,Pagi,Mendung,Panjang,Cash,Tidak Puas
+200,28,P,Roller Coaster,Yogyakarta,VIP,Pagi,Hujan,Panjang,Kartu Kredit,Cukup
+201,13,P,Bianglala,Bandung,Reguler,Pagi,Hujan,Pendek,Cash,Cukup
+202,30,L,Bianglala,Jakarta,Reguler,Siang,Cerah,Sedang,E-Money,Cukup
+203,21,L,Roller Coaster,Yogyakarta,Reguler,Malam,Cerah,Panjang,Kartu Kredit,Cukup
+204,25,P,Rumah Hantu,Surabaya,Promo,Sore,Mendung,Sedang,E-Money,Tidak Puas
+205,42,L,Kora-kora,Yogyakarta,Promo,Siang,Cerah,Pendek,Kartu Kredit,Tidak Puas
+206,30,L,Rumah Hantu,Surabaya,VIP,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+207,24,L,Rumah Hantu,Yogyakarta,Promo,Siang,Cerah,Panjang,Kartu Kredit,Puas
+208,17,L,Kora-kora,Surabaya,Reguler,Pagi,Hujan,Sedang,E-Money,Puas
+209,53,P,Bianglala,Surabaya,Promo,Sore,Cerah,Sedang,E-Money,Tidak Puas
+210,34,L,Kora-kora,Bandung,VIP,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+211,53,L,Kora-kora,Bandung,VIP,Pagi,Mendung,Sedang,E-Money,Cukup
+212,10,L,Rumah Hantu,Yogyakarta,Promo,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+213,32,P,Bianglala,Bandung,Reguler,Siang,Hujan,Pendek,E-Money,Cukup
+214,15,P,Bianglala,Bandung,VIP,Malam,Hujan,Sedang,E-Money,Puas
+215,55,P,Roller Coaster,Yogyakarta,VIP,Siang,Cerah,Panjang,E-Money,Tidak Puas
+216,29,L,Roller Coaster,Bandung,VIP,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+217,35,L,Kora-kora,Surabaya,VIP,Sore,Cerah,Pendek,E-Money,Cukup
+218,37,P,Roller Coaster,Jakarta,Promo,Sore,Hujan,Panjang,Cash,Tidak Puas
+219,46,P,Rumah Hantu,Jakarta,Promo,Sore,Hujan,Sedang,Kartu Kredit,Cukup
+220,48,P,Kora-kora,Jakarta,Reguler,Malam,Mendung,Sedang,Cash,Cukup
+221,26,P,Kora-kora,Yogyakarta,VIP,Sore,Mendung,Sedang,Kartu Kredit,Cukup
+222,36,L,Kora-kora,Bandung,Reguler,Malam,Hujan,Sedang,Cash,Cukup
+223,41,P,Rumah Hantu,Bandung,Reguler,Siang,Cerah,Panjang,Cash,Tidak Puas
+224,43,L,Kora-kora,Bandung,Promo,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+225,49,L,Kora-kora,Surabaya,Promo,Pagi,Cerah,Pendek,E-Money,Cukup
+226,37,P,Bianglala,Yogyakarta,VIP,Malam,Mendung,Pendek,E-Money,Cukup
+227,53,L,Kora-kora,Bandung,VIP,Pagi,Hujan,Pendek,Kartu Kredit,Puas
+228,30,L,Bianglala,Yogyakarta,Reguler,Pagi,Cerah,Panjang,Cash,Tidak Puas
+229,44,L,Kora-kora,Bandung,VIP,Pagi,Hujan,Sedang,E-Money,Puas
+230,10,P,Kora-kora,Jakarta,Promo,Malam,Mendung,Pendek,Kartu Kredit,Tidak Puas
+231,28,L,Roller Coaster,Jakarta,VIP,Pagi,Hujan,Sedang,Cash,Puas
+232,45,P,Rumah Hantu,Bandung,Reguler,Sore,Cerah,Pendek,Kartu Kredit,Tidak Puas
+233,57,L,Kora-kora,Jakarta,VIP,Sore,Hujan,Panjang,Kartu Kredit,Puas
+234,36,P,Kora-kora,Jakarta,Reguler,Siang,Hujan,Panjang,E-Money,Puas
+235,36,L,Kora-kora,Yogyakarta,Promo,Malam,Hujan,Pendek,Kartu Kredit,Tidak Puas
+236,12,P,Bianglala,Jakarta,Promo,Pagi,Mendung,Pendek,Cash,Cukup
+237,10,P,Bianglala,Surabaya,VIP,Siang,Cerah,Panjang,Cash,Puas
+238,42,L,Bianglala,Surabaya,Promo,Siang,Mendung,Sedang,E-Money,Tidak Puas
+239,37,P,Bianglala,Surabaya,VIP,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+240,44,P,Rumah Hantu,Bandung,VIP,Malam,Cerah,Sedang,Kartu Kredit,Puas
+241,51,L,Rumah Hantu,Bandung,Reguler,Malam,Mendung,Pendek,Kartu Kredit,Tidak Puas
+242,15,P,Rumah Hantu,Bandung,Promo,Malam,Hujan,Pendek,E-Money,Puas
+243,24,L,Bianglala,Bandung,Reguler,Siang,Cerah,Sedang,Kartu Kredit,Puas
+244,58,P,Rumah Hantu,Bandung,Reguler,Siang,Hujan,Pendek,Cash,Cukup
+245,49,L,Bianglala,Surabaya,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Tidak Puas
+246,53,P,Roller Coaster,Jakarta,Promo,Pagi,Cerah,Panjang,Kartu Kredit,Tidak Puas
+247,50,P,Roller Coaster,Surabaya,VIP,Pagi,Mendung,Pendek,Cash,Cukup
+248,56,L,Kora-kora,Jakarta,Reguler,Pagi,Hujan,Panjang,Kartu Kredit,Cukup
+249,38,P,Kora-kora,Yogyakarta,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+250,32,P,Rumah Hantu,Surabaya,Reguler,Malam,Mendung,Sedang,Kartu Kredit,Tidak Puas
+251,46,P,Roller Coaster,Yogyakarta,Promo,Malam,Cerah,Panjang,E-Money,Cukup
+252,45,L,Roller Coaster,Surabaya,VIP,Malam,Cerah,Pendek,Kartu Kredit,Puas
+253,53,L,Bianglala,Jakarta,Promo,Malam,Mendung,Sedang,E-Money,Puas
+254,11,P,Bianglala,Bandung,Reguler,Malam,Mendung,Panjang,E-Money,Cukup
+255,25,L,Rumah Hantu,Surabaya,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+256,23,P,Roller Coaster,Yogyakarta,VIP,Pagi,Mendung,Sedang,Cash,Cukup
+257,46,P,Kora-kora,Jakarta,VIP,Sore,Hujan,Sedang,Cash,Puas
+258,41,L,Kora-kora,Jakarta,Reguler,Siang,Hujan,Pendek,E-Money,Tidak Puas
+259,19,P,Roller Coaster,Surabaya,Promo,Malam,Cerah,Panjang,Kartu Kredit,Tidak Puas
+260,32,P,Rumah Hantu,Yogyakarta,Reguler,Sore,Cerah,Sedang,Kartu Kredit,Puas
+261,51,P,Rumah Hantu,Yogyakarta,VIP,Pagi,Hujan,Pendek,E-Money,Puas
+262,12,L,Rumah Hantu,Surabaya,Reguler,Siang,Hujan,Pendek,Cash,Puas
+263,31,P,Rumah Hantu,Bandung,Promo,Siang,Cerah,Pendek,E-Money,Puas
+264,58,L,Bianglala,Jakarta,VIP,Pagi,Cerah,Sedang,E-Money,Cukup
+265,39,P,Rumah Hantu,Yogyakarta,Promo,Sore,Mendung,Panjang,Kartu Kredit,Puas
+266,18,P,Bianglala,Yogyakarta,VIP,Siang,Hujan,Panjang,Cash,Cukup
+267,27,P,Kora-kora,Bandung,Reguler,Siang,Mendung,Pendek,Kartu Kredit,Tidak Puas
+268,43,L,Kora-kora,Jakarta,Reguler,Sore,Cerah,Pendek,Kartu Kredit,Tidak Puas
+269,53,L,Rumah Hantu,Surabaya,VIP,Pagi,Hujan,Pendek,Kartu Kredit,Tidak Puas
+270,33,L,Kora-kora,Surabaya,Promo,Siang,Mendung,Panjang,E-Money,Puas
+271,35,P,Bianglala,Surabaya,VIP,Siang,Cerah,Panjang,Cash,Tidak Puas
+272,18,P,Kora-kora,Bandung,Promo,Malam,Hujan,Pendek,E-Money,Puas
+273,38,L,Rumah Hantu,Surabaya,Promo,Pagi,Mendung,Panjang,Cash,Puas
+274,31,L,Bianglala,Bandung,VIP,Pagi,Hujan,Sedang,Cash,Cukup
+275,57,L,Roller Coaster,Surabaya,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Puas
+276,42,P,Bianglala,Bandung,VIP,Malam,Mendung,Pendek,Kartu Kredit,Puas
+277,47,P,Bianglala,Jakarta,Reguler,Sore,Hujan,Sedang,E-Money,Cukup
+278,48,P,Kora-kora,Yogyakarta,Reguler,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+279,36,P,Kora-kora,Bandung,Reguler,Pagi,Mendung,Sedang,Kartu Kredit,Cukup
+280,47,L,Kora-kora,Surabaya,VIP,Siang,Mendung,Sedang,Kartu Kredit,Cukup
+281,18,P,Bianglala,Bandung,Promo,Sore,Cerah,Pendek,Kartu Kredit,Cukup
+282,26,L,Roller Coaster,Surabaya,Promo,Sore,Mendung,Sedang,Cash,Cukup
+283,40,L,Bianglala,Bandung,Promo,Malam,Mendung,Sedang,E-Money,Tidak Puas
+284,31,P,Kora-kora,Surabaya,Reguler,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+285,27,P,Bianglala,Yogyakarta,Reguler,Sore,Hujan,Pendek,E-Money,Puas
+286,57,P,Kora-kora,Surabaya,Reguler,Sore,Hujan,Sedang,E-Money,Tidak Puas
+287,17,P,Rumah Hantu,Yogyakarta,VIP,Pagi,Hujan,Panjang,E-Money,Cukup
+288,56,L,Bianglala,Yogyakarta,Promo,Sore,Mendung,Pendek,E-Money,Cukup
+289,45,P,Kora-kora,Surabaya,VIP,Sore,Mendung,Panjang,E-Money,Cukup
+290,47,L,Rumah Hantu,Jakarta,Promo,Sore,Hujan,Pendek,E-Money,Cukup
+291,39,P,Rumah Hantu,Jakarta,VIP,Pagi,Cerah,Panjang,Kartu Kredit,Cukup
+292,44,L,Roller Coaster,Jakarta,Reguler,Pagi,Cerah,Pendek,E-Money,Puas
+293,31,L,Roller Coaster,Jakarta,Reguler,Siang,Cerah,Sedang,Cash,Tidak Puas
+294,26,L,Bianglala,Surabaya,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Cukup
+295,27,P,Rumah Hantu,Surabaya,Reguler,Pagi,Mendung,Sedang,Cash,Tidak Puas
+296,50,P,Bianglala,Surabaya,Promo,Siang,Hujan,Panjang,E-Money,Cukup
+297,33,P,Bianglala,Jakarta,Promo,Pagi,Mendung,Pendek,Cash,Puas
+298,14,P,Bianglala,Yogyakarta,VIP,Malam,Cerah,Pendek,Cash,Cukup
+299,13,P,Kora-kora,Yogyakarta,Reguler,Malam,Hujan,Pendek,Cash,Cukup
+300,21,P,Bianglala,Surabaya,Reguler,Sore,Mendung,Panjang,E-Money,Puas
+301,36,P,Rumah Hantu,Yogyakarta,VIP,Malam,Cerah,Sedang,Cash,Cukup
+302,55,P,Rumah Hantu,Jakarta,Reguler,Pagi,Cerah,Sedang,Cash,Tidak Puas
+303,25,L,Roller Coaster,Yogyakarta,Promo,Sore,Mendung,Panjang,E-Money,Cukup
+304,48,L,Kora-kora,Yogyakarta,Reguler,Pagi,Hujan,Sedang,Cash,Tidak Puas
+305,47,L,Rumah Hantu,Jakarta,Reguler,Sore,Mendung,Pendek,E-Money,Tidak Puas
+306,48,P,Roller Coaster,Yogyakarta,Promo,Malam,Mendung,Sedang,E-Money,Tidak Puas
+307,26,L,Rumah Hantu,Jakarta,Reguler,Sore,Cerah,Sedang,E-Money,Tidak Puas
+308,38,P,Bianglala,Surabaya,Promo,Siang,Hujan,Pendek,E-Money,Puas
+309,57,P,Bianglala,Jakarta,Promo,Pagi,Cerah,Sedang,E-Money,Cukup
+310,33,P,Roller Coaster,Surabaya,Promo,Siang,Cerah,Pendek,Cash,Tidak Puas
+311,24,P,Rumah Hantu,Surabaya,Promo,Malam,Hujan,Pendek,Cash,Puas
+312,34,P,Kora-kora,Yogyakarta,Reguler,Sore,Hujan,Sedang,E-Money,Tidak Puas
+313,56,P,Bianglala,Bandung,VIP,Malam,Cerah,Panjang,Kartu Kredit,Puas
+314,43,P,Roller Coaster,Jakarta,VIP,Siang,Cerah,Panjang,Cash,Tidak Puas
+315,58,L,Roller Coaster,Surabaya,Promo,Sore,Hujan,Panjang,Kartu Kredit,Tidak Puas
+316,13,L,Kora-kora,Yogyakarta,VIP,Malam,Cerah,Pendek,Kartu Kredit,Puas
+317,47,P,Rumah Hantu,Surabaya,Promo,Malam,Cerah,Pendek,E-Money,Cukup
+318,11,L,Roller Coaster,Jakarta,VIP,Siang,Cerah,Sedang,Kartu Kredit,Tidak Puas
+319,24,L,Roller Coaster,Bandung,Reguler,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+320,30,L,Rumah Hantu,Yogyakarta,Reguler,Malam,Cerah,Sedang,E-Money,Tidak Puas
+321,19,P,Roller Coaster,Surabaya,Reguler,Sore,Cerah,Pendek,Kartu Kredit,Puas
+322,18,P,Roller Coaster,Jakarta,Promo,Malam,Mendung,Sedang,E-Money,Puas
+323,35,P,Bianglala,Yogyakarta,Reguler,Malam,Cerah,Panjang,Kartu Kredit,Cukup
+324,33,L,Kora-kora,Surabaya,VIP,Sore,Cerah,Sedang,Cash,Cukup
+325,32,P,Rumah Hantu,Yogyakarta,VIP,Pagi,Cerah,Panjang,E-Money,Cukup
+326,35,L,Bianglala,Surabaya,Promo,Malam,Hujan,Pendek,E-Money,Cukup
+327,48,L,Rumah Hantu,Bandung,Promo,Sore,Mendung,Pendek,E-Money,Tidak Puas
+328,56,L,Rumah Hantu,Surabaya,Reguler,Pagi,Hujan,Panjang,Kartu Kredit,Cukup
+329,12,P,Roller Coaster,Bandung,Promo,Malam,Hujan,Sedang,Kartu Kredit,Tidak Puas
+330,23,L,Rumah Hantu,Surabaya,Reguler,Sore,Hujan,Panjang,Cash,Puas
+331,12,L,Kora-kora,Yogyakarta,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Puas
+332,14,L,Bianglala,Yogyakarta,VIP,Malam,Mendung,Pendek,Cash,Puas
+333,41,P,Rumah Hantu,Bandung,Reguler,Siang,Mendung,Pendek,Cash,Puas
+334,44,P,Bianglala,Surabaya,Promo,Malam,Mendung,Sedang,Kartu Kredit,Tidak Puas
+335,23,P,Roller Coaster,Bandung,VIP,Sore,Hujan,Sedang,E-Money,Tidak Puas
+336,39,P,Kora-kora,Yogyakarta,Promo,Pagi,Cerah,Panjang,Cash,Cukup
+337,25,P,Bianglala,Jakarta,Promo,Sore,Mendung,Sedang,Kartu Kredit,Tidak Puas
+338,11,P,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Panjang,E-Money,Puas
+339,24,P,Kora-kora,Surabaya,Reguler,Malam,Hujan,Panjang,Cash,Cukup
+340,53,P,Bianglala,Yogyakarta,Reguler,Pagi,Hujan,Panjang,Cash,Tidak Puas
+341,19,P,Bianglala,Surabaya,VIP,Malam,Cerah,Panjang,Cash,Cukup
+342,18,P,Kora-kora,Surabaya,VIP,Siang,Hujan,Panjang,Cash,Tidak Puas
+343,50,P,Bianglala,Yogyakarta,Promo,Pagi,Cerah,Pendek,Cash,Puas
+344,44,L,Kora-kora,Bandung,Promo,Siang,Mendung,Pendek,E-Money,Puas
+345,54,L,Roller Coaster,Yogyakarta,Promo,Pagi,Cerah,Pendek,Kartu Kredit,Cukup
+346,58,P,Kora-kora,Surabaya,Reguler,Malam,Mendung,Pendek,Kartu Kredit,Tidak Puas
+347,11,L,Kora-kora,Jakarta,Promo,Sore,Hujan,Panjang,Cash,Tidak Puas
+348,21,L,Roller Coaster,Surabaya,Promo,Malam,Hujan,Pendek,E-Money,Puas
+349,25,P,Rumah Hantu,Yogyakarta,VIP,Sore,Mendung,Pendek,Kartu Kredit,Puas
+350,46,P,Roller Coaster,Jakarta,Reguler,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+351,34,L,Bianglala,Surabaya,Promo,Sore,Mendung,Sedang,Kartu Kredit,Tidak Puas
+352,14,L,Roller Coaster,Jakarta,Reguler,Siang,Cerah,Pendek,Cash,Puas
+353,39,P,Rumah Hantu,Surabaya,VIP,Pagi,Cerah,Panjang,Cash,Tidak Puas
+354,59,P,Bianglala,Surabaya,Promo,Sore,Hujan,Pendek,E-Money,Puas
+355,57,P,Roller Coaster,Bandung,Reguler,Siang,Cerah,Sedang,Kartu Kredit,Puas
+356,18,L,Kora-kora,Bandung,Promo,Malam,Cerah,Pendek,E-Money,Tidak Puas
+357,10,L,Rumah Hantu,Bandung,Promo,Siang,Hujan,Panjang,Kartu Kredit,Tidak Puas
+358,38,L,Roller Coaster,Surabaya,VIP,Malam,Cerah,Panjang,E-Money,Tidak Puas
+359,14,L,Roller Coaster,Bandung,VIP,Sore,Mendung,Panjang,Kartu Kredit,Cukup
+360,21,P,Bianglala,Surabaya,Promo,Pagi,Cerah,Pendek,E-Money,Puas
+361,50,L,Kora-kora,Surabaya,Reguler,Siang,Mendung,Panjang,E-Money,Cukup
+362,26,L,Kora-kora,Bandung,VIP,Sore,Cerah,Pendek,Cash,Tidak Puas
+363,40,L,Bianglala,Yogyakarta,Promo,Pagi,Cerah,Sedang,Kartu Kredit,Cukup
+364,38,P,Kora-kora,Bandung,VIP,Siang,Hujan,Panjang,Kartu Kredit,Puas
+365,12,P,Rumah Hantu,Bandung,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Puas
+366,44,L,Bianglala,Bandung,Reguler,Sore,Cerah,Panjang,Kartu Kredit,Puas
+367,51,L,Roller Coaster,Yogyakarta,Reguler,Malam,Hujan,Panjang,Cash,Puas
+368,58,P,Rumah Hantu,Bandung,Promo,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+369,18,L,Kora-kora,Surabaya,VIP,Sore,Cerah,Panjang,Kartu Kredit,Tidak Puas
+370,36,L,Rumah Hantu,Surabaya,Reguler,Malam,Cerah,Panjang,E-Money,Puas
+371,29,L,Bianglala,Bandung,Reguler,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+372,47,L,Roller Coaster,Yogyakarta,Promo,Pagi,Cerah,Panjang,Kartu Kredit,Puas
+373,59,L,Kora-kora,Yogyakarta,VIP,Malam,Hujan,Pendek,Cash,Puas
+374,46,P,Rumah Hantu,Bandung,VIP,Sore,Cerah,Sedang,Cash,Tidak Puas
+375,16,P,Rumah Hantu,Jakarta,VIP,Sore,Cerah,Pendek,Cash,Puas
+376,48,P,Bianglala,Jakarta,Reguler,Siang,Mendung,Sedang,E-Money,Tidak Puas
+377,50,L,Roller Coaster,Surabaya,Promo,Sore,Hujan,Sedang,E-Money,Cukup
+378,26,P,Bianglala,Bandung,VIP,Siang,Hujan,Panjang,Kartu Kredit,Cukup
+379,41,L,Kora-kora,Jakarta,Promo,Malam,Hujan,Panjang,E-Money,Cukup
+380,43,L,Rumah Hantu,Bandung,Promo,Pagi,Mendung,Sedang,E-Money,Cukup
+381,38,L,Kora-kora,Yogyakarta,Promo,Pagi,Mendung,Panjang,Cash,Cukup
+382,27,L,Bianglala,Jakarta,Reguler,Pagi,Hujan,Pendek,Cash,Cukup
+383,20,P,Kora-kora,Surabaya,Reguler,Siang,Hujan,Sedang,Kartu Kredit,Cukup
+384,17,L,Roller Coaster,Jakarta,Reguler,Siang,Cerah,Pendek,Cash,Puas
+385,56,L,Rumah Hantu,Jakarta,VIP,Siang,Mendung,Pendek,Cash,Tidak Puas
+386,35,P,Bianglala,Yogyakarta,Reguler,Siang,Cerah,Panjang,E-Money,Tidak Puas
+387,53,P,Rumah Hantu,Surabaya,VIP,Sore,Hujan,Panjang,Kartu Kredit,Puas
+388,45,L,Rumah Hantu,Surabaya,Promo,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+389,38,L,Rumah Hantu,Surabaya,Promo,Malam,Hujan,Pendek,E-Money,Tidak Puas
+390,36,P,Rumah Hantu,Jakarta,Reguler,Siang,Cerah,Panjang,E-Money,Puas
+391,15,L,Kora-kora,Jakarta,Reguler,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+392,52,L,Bianglala,Jakarta,Promo,Siang,Cerah,Sedang,E-Money,Puas
+393,55,P,Rumah Hantu,Jakarta,VIP,Sore,Cerah,Panjang,E-Money,Cukup
+394,27,L,Bianglala,Jakarta,VIP,Pagi,Mendung,Panjang,Kartu Kredit,Tidak Puas
+395,38,P,Roller Coaster,Surabaya,Promo,Sore,Hujan,Pendek,Cash,Tidak Puas
+396,52,P,Rumah Hantu,Jakarta,VIP,Malam,Cerah,Panjang,Cash,Cukup
+397,14,P,Rumah Hantu,Bandung,VIP,Malam,Hujan,Pendek,Kartu Kredit,Cukup
+398,18,L,Rumah Hantu,Yogyakarta,Promo,Sore,Hujan,Panjang,Cash,Puas
+399,46,P,Rumah Hantu,Jakarta,Reguler,Pagi,Hujan,Sedang,E-Money,Cukup
+400,58,P,Bianglala,Jakarta,Reguler,Siang,Cerah,Pendek,Kartu Kredit,Cukup
+401,43,L,Kora-kora,Jakarta,Promo,Sore,Cerah,Sedang,Cash,Tidak Puas
+402,23,P,Rumah Hantu,Yogyakarta,Promo,Siang,Mendung,Pendek,E-Money,Cukup
+403,56,L,Bianglala,Surabaya,VIP,Siang,Mendung,Panjang,Cash,Puas
+404,16,L,Roller Coaster,Jakarta,Promo,Pagi,Cerah,Pendek,Cash,Cukup
+405,17,L,Kora-kora,Surabaya,Reguler,Sore,Mendung,Pendek,Cash,Puas
+406,14,L,Roller Coaster,Bandung,Reguler,Malam,Mendung,Panjang,Cash,Tidak Puas
+407,35,P,Bianglala,Surabaya,Reguler,Malam,Hujan,Sedang,Cash,Cukup
+408,49,P,Bianglala,Bandung,Promo,Sore,Hujan,Pendek,Cash,Puas
+409,31,L,Roller Coaster,Yogyakarta,Reguler,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+410,23,P,Kora-kora,Surabaya,VIP,Sore,Cerah,Panjang,Cash,Tidak Puas
+411,20,L,Rumah Hantu,Surabaya,Reguler,Siang,Cerah,Panjang,E-Money,Puas
+412,31,L,Roller Coaster,Surabaya,VIP,Siang,Hujan,Pendek,Kartu Kredit,Tidak Puas
+413,33,P,Kora-kora,Jakarta,Reguler,Sore,Cerah,Pendek,E-Money,Cukup
+414,57,L,Kora-kora,Surabaya,Reguler,Siang,Cerah,Pendek,E-Money,Cukup
+415,39,L,Roller Coaster,Jakarta,Reguler,Siang,Cerah,Sedang,Cash,Puas
+416,32,L,Kora-kora,Bandung,Reguler,Siang,Mendung,Sedang,Cash,Puas
+417,42,P,Roller Coaster,Surabaya,Promo,Pagi,Mendung,Panjang,Cash,Puas
+418,49,L,Kora-kora,Bandung,Reguler,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+419,41,L,Rumah Hantu,Jakarta,Promo,Malam,Mendung,Pendek,Cash,Puas
+420,32,P,Roller Coaster,Bandung,Promo,Siang,Mendung,Sedang,Cash,Puas
+421,25,P,Roller Coaster,Surabaya,VIP,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+422,28,L,Roller Coaster,Jakarta,Reguler,Sore,Hujan,Panjang,Cash,Cukup
+423,19,L,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Panjang,E-Money,Puas
+424,41,L,Kora-kora,Bandung,Reguler,Pagi,Hujan,Sedang,Cash,Cukup
+425,25,P,Kora-kora,Jakarta,Promo,Sore,Cerah,Sedang,Cash,Tidak Puas
+426,37,L,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Pendek,Kartu Kredit,Cukup
+427,32,L,Bianglala,Bandung,Reguler,Siang,Hujan,Panjang,Kartu Kredit,Puas
+428,35,L,Bianglala,Surabaya,VIP,Siang,Cerah,Pendek,Cash,Puas
+429,17,L,Rumah Hantu,Bandung,Promo,Pagi,Cerah,Pendek,Kartu Kredit,Cukup
+430,45,L,Roller Coaster,Yogyakarta,Reguler,Pagi,Mendung,Sedang,Cash,Tidak Puas
+431,44,L,Rumah Hantu,Surabaya,Promo,Siang,Mendung,Panjang,Kartu Kredit,Puas
+432,56,P,Roller Coaster,Jakarta,VIP,Malam,Hujan,Sedang,E-Money,Cukup
+433,48,L,Bianglala,Surabaya,Promo,Malam,Mendung,Panjang,E-Money,Puas
+434,15,P,Bianglala,Surabaya,Promo,Siang,Cerah,Panjang,Cash,Puas
+435,16,L,Kora-kora,Jakarta,VIP,Pagi,Cerah,Pendek,E-Money,Puas
+436,14,L,Roller Coaster,Bandung,Reguler,Siang,Hujan,Panjang,Cash,Puas
+437,56,P,Kora-kora,Jakarta,VIP,Sore,Cerah,Sedang,Cash,Tidak Puas
+438,26,P,Bianglala,Jakarta,Reguler,Sore,Cerah,Pendek,E-Money,Cukup
+439,32,L,Bianglala,Surabaya,VIP,Sore,Cerah,Pendek,Cash,Tidak Puas
+440,59,P,Kora-kora,Jakarta,VIP,Sore,Cerah,Pendek,E-Money,Puas
+441,57,P,Roller Coaster,Surabaya,Reguler,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+442,21,P,Rumah Hantu,Jakarta,Reguler,Sore,Cerah,Pendek,E-Money,Puas
+443,29,L,Roller Coaster,Yogyakarta,Reguler,Sore,Hujan,Panjang,Cash,Cukup
+444,28,L,Kora-kora,Yogyakarta,VIP,Sore,Hujan,Pendek,Cash,Cukup
+445,39,P,Kora-kora,Yogyakarta,Reguler,Pagi,Hujan,Pendek,Kartu Kredit,Tidak Puas
+446,24,P,Rumah Hantu,Surabaya,Reguler,Siang,Mendung,Sedang,E-Money,Cukup
+447,21,P,Rumah Hantu,Yogyakarta,VIP,Sore,Hujan,Pendek,E-Money,Tidak Puas
+448,11,L,Rumah Hantu,Yogyakarta,VIP,Sore,Mendung,Sedang,Kartu Kredit,Tidak Puas
+449,56,L,Rumah Hantu,Surabaya,Promo,Malam,Cerah,Panjang,Cash,Tidak Puas
+450,28,P,Bianglala,Bandung,Promo,Pagi,Cerah,Panjang,Cash,Cukup
+451,14,P,Rumah Hantu,Jakarta,VIP,Siang,Cerah,Pendek,Cash,Puas
+452,58,P,Bianglala,Yogyakarta,VIP,Malam,Hujan,Panjang,Cash,Puas
+453,47,P,Kora-kora,Bandung,Promo,Siang,Hujan,Panjang,Kartu Kredit,Cukup
+454,23,P,Bianglala,Bandung,VIP,Pagi,Cerah,Panjang,Cash,Cukup
+455,38,P,Kora-kora,Yogyakarta,Reguler,Malam,Hujan,Pendek,E-Money,Tidak Puas
+456,41,P,Rumah Hantu,Jakarta,VIP,Malam,Cerah,Pendek,Cash,Tidak Puas
+457,43,L,Kora-kora,Jakarta,Promo,Sore,Mendung,Sedang,Cash,Puas
+458,47,P,Kora-kora,Bandung,VIP,Siang,Cerah,Pendek,Kartu Kredit,Tidak Puas
+459,43,P,Roller Coaster,Jakarta,VIP,Sore,Hujan,Pendek,Kartu Kredit,Tidak Puas
+460,55,L,Bianglala,Bandung,Reguler,Sore,Cerah,Panjang,Kartu Kredit,Puas
+461,37,L,Roller Coaster,Bandung,Promo,Malam,Hujan,Pendek,E-Money,Cukup
+462,46,L,Kora-kora,Jakarta,Reguler,Sore,Cerah,Sedang,E-Money,Puas
+463,40,P,Bianglala,Surabaya,Promo,Pagi,Cerah,Panjang,E-Money,Tidak Puas
+464,59,P,Roller Coaster,Surabaya,VIP,Pagi,Cerah,Sedang,E-Money,Cukup
+465,32,L,Rumah Hantu,Surabaya,Promo,Sore,Mendung,Panjang,E-Money,Cukup
+466,53,L,Rumah Hantu,Surabaya,VIP,Sore,Cerah,Panjang,Kartu Kredit,Cukup
+467,19,P,Kora-kora,Jakarta,VIP,Siang,Mendung,Pendek,Cash,Cukup
+468,16,L,Rumah Hantu,Yogyakarta,VIP,Sore,Hujan,Sedang,E-Money,Puas
+469,10,P,Roller Coaster,Surabaya,Reguler,Malam,Hujan,Pendek,Cash,Tidak Puas
+470,24,P,Kora-kora,Bandung,VIP,Pagi,Cerah,Sedang,Kartu Kredit,Tidak Puas
+471,17,L,Kora-kora,Yogyakarta,VIP,Pagi,Hujan,Panjang,Cash,Puas
+472,46,L,Rumah Hantu,Surabaya,Promo,Pagi,Hujan,Pendek,Cash,Puas
+473,35,L,Rumah Hantu,Surabaya,Promo,Siang,Mendung,Pendek,Cash,Tidak Puas
+474,21,P,Rumah Hantu,Jakarta,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+475,14,L,Rumah Hantu,Jakarta,VIP,Malam,Mendung,Pendek,E-Money,Tidak Puas
+476,18,L,Kora-kora,Bandung,Promo,Sore,Cerah,Pendek,E-Money,Tidak Puas
+477,26,P,Bianglala,Bandung,Promo,Siang,Cerah,Pendek,E-Money,Puas
+478,29,P,Bianglala,Jakarta,VIP,Malam,Cerah,Sedang,Cash,Tidak Puas
+479,13,L,Roller Coaster,Bandung,Reguler,Siang,Mendung,Sedang,E-Money,Puas
+480,48,P,Rumah Hantu,Surabaya,Reguler,Pagi,Hujan,Sedang,Cash,Cukup
+481,38,L,Roller Coaster,Jakarta,Reguler,Siang,Mendung,Panjang,E-Money,Tidak Puas
+482,24,P,Bianglala,Surabaya,Promo,Pagi,Mendung,Sedang,Kartu Kredit,Puas
+483,26,L,Rumah Hantu,Yogyakarta,Promo,Malam,Mendung,Panjang,Cash,Puas
+484,53,L,Kora-kora,Bandung,Reguler,Sore,Mendung,Pendek,E-Money,Cukup
+485,42,L,Bianglala,Bandung,VIP,Siang,Hujan,Pendek,E-Money,Puas
+486,47,L,Bianglala,Yogyakarta,Reguler,Sore,Mendung,Sedang,Kartu Kredit,Puas
+487,56,P,Rumah Hantu,Bandung,Reguler,Pagi,Cerah,Pendek,E-Money,Puas
+488,24,L,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Sedang,Cash,Cukup
+489,58,P,Roller Coaster,Yogyakarta,VIP,Pagi,Cerah,Pendek,Kartu Kredit,Tidak Puas
+490,33,L,Rumah Hantu,Yogyakarta,VIP,Siang,Hujan,Pendek,Kartu Kredit,Cukup
+491,20,P,Kora-kora,Jakarta,VIP,Malam,Mendung,Pendek,Cash,Tidak Puas
+492,48,L,Kora-kora,Yogyakarta,Reguler,Siang,Cerah,Sedang,Cash,Tidak Puas
+493,42,P,Bianglala,Bandung,Promo,Malam,Hujan,Panjang,E-Money,Puas
+494,55,L,Kora-kora,Surabaya,VIP,Sore,Cerah,Panjang,Cash,Puas
+495,17,P,Rumah Hantu,Jakarta,Promo,Pagi,Mendung,Panjang,E-Money,Tidak Puas
+496,26,L,Bianglala,Surabaya,VIP,Siang,Hujan,Sedang,E-Money,Cukup
+497,35,L,Rumah Hantu,Surabaya,Promo,Sore,Cerah,Pendek,Kartu Kredit,Cukup
+498,41,L,Rumah Hantu,Bandung,Promo,Sore,Cerah,Pendek,Kartu Kredit,Cukup
+499,27,L,Roller Coaster,Bandung,Reguler,Malam,Mendung,Panjang,E-Money,Puas
+500,12,P,Kora-kora,Surabaya,Promo,Pagi,Cerah,Sedang,E-Money,Cukup
+501,31,P,Kora-kora,Surabaya,VIP,Pagi,Cerah,Panjang,Kartu Kredit,Cukup
+502,34,L,Roller Coaster,Yogyakarta,Promo,Siang,Mendung,Sedang,E-Money,Cukup
+503,37,L,Kora-kora,Jakarta,VIP,Sore,Mendung,Sedang,E-Money,Puas
+504,16,P,Bianglala,Surabaya,Reguler,Malam,Mendung,Panjang,Cash,Puas
+505,17,P,Kora-kora,Bandung,VIP,Malam,Hujan,Pendek,E-Money,Cukup
+506,18,P,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Panjang,Cash,Tidak Puas
+507,48,P,Bianglala,Yogyakarta,VIP,Sore,Cerah,Panjang,E-Money,Puas
+508,20,L,Bianglala,Yogyakarta,Promo,Siang,Cerah,Panjang,Cash,Tidak Puas
+509,26,P,Kora-kora,Yogyakarta,Reguler,Malam,Mendung,Pendek,E-Money,Puas
+510,12,L,Bianglala,Bandung,Reguler,Sore,Cerah,Panjang,Cash,Cukup
+511,53,P,Bianglala,Bandung,VIP,Malam,Cerah,Panjang,E-Money,Puas
+512,12,P,Bianglala,Surabaya,Promo,Pagi,Hujan,Sedang,Cash,Cukup
+513,45,P,Roller Coaster,Yogyakarta,Promo,Malam,Hujan,Pendek,Kartu Kredit,Tidak Puas
+514,50,L,Kora-kora,Surabaya,Reguler,Siang,Cerah,Sedang,Kartu Kredit,Tidak Puas
+515,17,P,Rumah Hantu,Surabaya,VIP,Pagi,Mendung,Sedang,Kartu Kredit,Puas
+516,21,P,Kora-kora,Jakarta,VIP,Pagi,Hujan,Sedang,E-Money,Puas
+517,32,L,Bianglala,Bandung,VIP,Pagi,Mendung,Panjang,Kartu Kredit,Cukup
+518,17,P,Kora-kora,Surabaya,VIP,Siang,Hujan,Pendek,Kartu Kredit,Cukup
+519,31,P,Rumah Hantu,Surabaya,Reguler,Sore,Hujan,Sedang,E-Money,Tidak Puas
+520,48,P,Rumah Hantu,Bandung,Reguler,Sore,Mendung,Sedang,E-Money,Tidak Puas
+521,30,L,Kora-kora,Bandung,Reguler,Siang,Cerah,Sedang,Kartu Kredit,Puas
+522,26,P,Kora-kora,Yogyakarta,Promo,Sore,Mendung,Pendek,Kartu Kredit,Tidak Puas
+523,15,P,Bianglala,Bandung,VIP,Siang,Cerah,Panjang,E-Money,Cukup
+524,25,L,Roller Coaster,Bandung,Promo,Malam,Mendung,Pendek,E-Money,Cukup
+525,29,L,Rumah Hantu,Jakarta,Promo,Siang,Cerah,Pendek,Kartu Kredit,Puas
+526,16,P,Roller Coaster,Bandung,VIP,Pagi,Hujan,Panjang,Cash,Tidak Puas
+527,28,L,Rumah Hantu,Yogyakarta,VIP,Sore,Cerah,Pendek,Kartu Kredit,Puas
+528,58,L,Roller Coaster,Jakarta,Promo,Siang,Mendung,Panjang,Cash,Puas
+529,49,L,Bianglala,Jakarta,Promo,Siang,Mendung,Sedang,E-Money,Cukup
+530,24,P,Bianglala,Yogyakarta,VIP,Malam,Cerah,Pendek,E-Money,Puas
+531,16,P,Roller Coaster,Yogyakarta,Reguler,Siang,Mendung,Panjang,Kartu Kredit,Puas
+532,42,L,Roller Coaster,Yogyakarta,Promo,Sore,Cerah,Panjang,Kartu Kredit,Cukup
+533,43,P,Kora-kora,Yogyakarta,VIP,Pagi,Hujan,Pendek,E-Money,Puas
+534,17,L,Rumah Hantu,Bandung,Promo,Malam,Hujan,Sedang,Kartu Kredit,Puas
+535,14,P,Roller Coaster,Surabaya,Promo,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+536,19,L,Roller Coaster,Surabaya,Reguler,Sore,Cerah,Panjang,Cash,Puas
+537,48,P,Roller Coaster,Yogyakarta,VIP,Siang,Hujan,Sedang,E-Money,Cukup
+538,27,P,Kora-kora,Jakarta,VIP,Siang,Cerah,Panjang,Kartu Kredit,Tidak Puas
+539,47,L,Rumah Hantu,Yogyakarta,Reguler,Malam,Cerah,Panjang,E-Money,Cukup
+540,36,L,Bianglala,Surabaya,Reguler,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+541,34,L,Roller Coaster,Surabaya,VIP,Sore,Mendung,Panjang,Kartu Kredit,Puas
+542,39,L,Bianglala,Bandung,Promo,Sore,Hujan,Sedang,Kartu Kredit,Cukup
+543,22,L,Bianglala,Yogyakarta,Promo,Malam,Cerah,Sedang,Cash,Cukup
+544,37,L,Rumah Hantu,Surabaya,VIP,Malam,Hujan,Panjang,E-Money,Cukup
+545,54,L,Kora-kora,Surabaya,VIP,Pagi,Hujan,Pendek,E-Money,Puas
+546,12,P,Bianglala,Yogyakarta,Promo,Malam,Hujan,Panjang,E-Money,Puas
+547,47,L,Bianglala,Yogyakarta,Promo,Siang,Hujan,Panjang,Kartu Kredit,Tidak Puas
+548,47,L,Rumah Hantu,Surabaya,VIP,Sore,Cerah,Pendek,Kartu Kredit,Cukup
+549,40,L,Rumah Hantu,Jakarta,Promo,Pagi,Mendung,Sedang,E-Money,Tidak Puas
+550,40,L,Roller Coaster,Bandung,VIP,Malam,Hujan,Sedang,Kartu Kredit,Cukup
+551,39,L,Bianglala,Jakarta,Reguler,Pagi,Hujan,Sedang,Kartu Kredit,Tidak Puas
+552,31,L,Rumah Hantu,Yogyakarta,Reguler,Sore,Cerah,Panjang,E-Money,Cukup
+553,41,P,Kora-kora,Surabaya,VIP,Malam,Mendung,Sedang,E-Money,Tidak Puas
+554,44,P,Roller Coaster,Jakarta,VIP,Malam,Hujan,Panjang,Cash,Puas
+555,50,L,Rumah Hantu,Yogyakarta,Promo,Malam,Hujan,Panjang,E-Money,Tidak Puas
+556,37,L,Roller Coaster,Bandung,VIP,Pagi,Cerah,Panjang,Cash,Cukup
+557,20,P,Kora-kora,Jakarta,Promo,Malam,Hujan,Pendek,E-Money,Puas
+558,51,L,Kora-kora,Bandung,Promo,Siang,Mendung,Sedang,Cash,Cukup
+559,27,L,Bianglala,Yogyakarta,Reguler,Siang,Cerah,Pendek,Kartu Kredit,Tidak Puas
+560,18,L,Kora-kora,Jakarta,VIP,Pagi,Hujan,Panjang,Cash,Tidak Puas
+561,16,P,Rumah Hantu,Jakarta,VIP,Pagi,Cerah,Panjang,Kartu Kredit,Tidak Puas
+562,20,P,Roller Coaster,Bandung,Reguler,Sore,Cerah,Sedang,E-Money,Tidak Puas
+563,21,L,Rumah Hantu,Bandung,Reguler,Malam,Cerah,Sedang,Cash,Cukup
+564,26,L,Rumah Hantu,Jakarta,Reguler,Malam,Mendung,Sedang,E-Money,Cukup
+565,33,L,Bianglala,Yogyakarta,VIP,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+566,28,L,Rumah Hantu,Surabaya,Promo,Malam,Mendung,Panjang,Cash,Cukup
+567,57,L,Bianglala,Jakarta,VIP,Sore,Mendung,Panjang,Cash,Tidak Puas
+568,11,L,Bianglala,Surabaya,VIP,Sore,Cerah,Sedang,E-Money,Puas
+569,12,P,Roller Coaster,Jakarta,Reguler,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+570,26,L,Kora-kora,Surabaya,VIP,Malam,Cerah,Sedang,Cash,Tidak Puas
+571,24,L,Rumah Hantu,Yogyakarta,Reguler,Pagi,Cerah,Panjang,Cash,Cukup
+572,17,L,Kora-kora,Yogyakarta,VIP,Malam,Hujan,Sedang,Kartu Kredit,Cukup
+573,43,P,Rumah Hantu,Surabaya,Reguler,Malam,Cerah,Sedang,Cash,Cukup
+574,30,P,Kora-kora,Bandung,VIP,Siang,Cerah,Sedang,Cash,Tidak Puas
+575,41,L,Bianglala,Bandung,Reguler,Pagi,Cerah,Pendek,Kartu Kredit,Tidak Puas
+576,23,P,Rumah Hantu,Surabaya,Reguler,Sore,Hujan,Panjang,E-Money,Tidak Puas
+577,45,L,Roller Coaster,Jakarta,Promo,Sore,Hujan,Panjang,E-Money,Tidak Puas
+578,49,P,Kora-kora,Jakarta,Reguler,Siang,Hujan,Panjang,E-Money,Puas
+579,37,P,Roller Coaster,Jakarta,Reguler,Sore,Hujan,Sedang,Cash,Cukup
+580,37,P,Bianglala,Bandung,Reguler,Malam,Hujan,Pendek,E-Money,Cukup
+581,18,L,Bianglala,Jakarta,VIP,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+582,31,P,Kora-kora,Jakarta,Promo,Pagi,Cerah,Pendek,E-Money,Puas
+583,20,P,Kora-kora,Bandung,Reguler,Malam,Mendung,Sedang,Kartu Kredit,Tidak Puas
+584,43,P,Roller Coaster,Surabaya,VIP,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+585,59,L,Kora-kora,Surabaya,Reguler,Pagi,Cerah,Pendek,Cash,Puas
+586,51,P,Roller Coaster,Bandung,VIP,Pagi,Mendung,Panjang,Cash,Puas
+587,17,L,Rumah Hantu,Surabaya,VIP,Pagi,Mendung,Panjang,Cash,Cukup
+588,28,P,Bianglala,Yogyakarta,Reguler,Malam,Hujan,Pendek,E-Money,Tidak Puas
+589,50,L,Rumah Hantu,Bandung,VIP,Siang,Hujan,Sedang,Cash,Puas
+590,28,L,Kora-kora,Jakarta,Promo,Malam,Cerah,Pendek,Kartu Kredit,Tidak Puas
+591,26,P,Rumah Hantu,Surabaya,Reguler,Pagi,Hujan,Sedang,E-Money,Puas
+592,20,L,Bianglala,Yogyakarta,Reguler,Pagi,Cerah,Pendek,Cash,Cukup
+593,13,L,Rumah Hantu,Surabaya,Reguler,Siang,Cerah,Pendek,Cash,Tidak Puas
+594,56,P,Kora-kora,Surabaya,Reguler,Pagi,Mendung,Panjang,E-Money,Puas
+595,45,L,Rumah Hantu,Jakarta,VIP,Sore,Mendung,Sedang,E-Money,Tidak Puas
+596,16,P,Rumah Hantu,Bandung,VIP,Malam,Mendung,Panjang,Kartu Kredit,Tidak Puas
+597,48,L,Rumah Hantu,Bandung,Reguler,Pagi,Cerah,Sedang,Kartu Kredit,Cukup
+598,48,P,Bianglala,Bandung,VIP,Siang,Cerah,Panjang,Cash,Cukup
+599,33,L,Bianglala,Jakarta,VIP,Sore,Cerah,Sedang,E-Money,Tidak Puas
+600,43,L,Bianglala,Yogyakarta,Reguler,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+601,26,L,Roller Coaster,Bandung,VIP,Malam,Hujan,Panjang,Cash,Puas
+602,12,L,Rumah Hantu,Surabaya,Promo,Pagi,Hujan,Panjang,Cash,Tidak Puas
+603,23,L,Roller Coaster,Bandung,VIP,Siang,Mendung,Panjang,Cash,Puas
+604,57,L,Roller Coaster,Surabaya,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Puas
+605,44,L,Rumah Hantu,Surabaya,Promo,Siang,Cerah,Sedang,E-Money,Tidak Puas
+606,31,L,Kora-kora,Jakarta,Reguler,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+607,12,L,Kora-kora,Bandung,Reguler,Malam,Hujan,Pendek,Kartu Kredit,Tidak Puas
+608,59,L,Rumah Hantu,Surabaya,Promo,Siang,Cerah,Pendek,Kartu Kredit,Puas
+609,22,L,Rumah Hantu,Surabaya,Promo,Malam,Mendung,Panjang,Kartu Kredit,Puas
+610,32,P,Rumah Hantu,Bandung,VIP,Sore,Cerah,Pendek,E-Money,Cukup
+611,55,L,Bianglala,Jakarta,Promo,Malam,Mendung,Sedang,E-Money,Tidak Puas
+612,15,P,Rumah Hantu,Bandung,Reguler,Siang,Hujan,Sedang,Cash,Tidak Puas
+613,29,L,Bianglala,Surabaya,VIP,Sore,Cerah,Panjang,Kartu Kredit,Cukup
+614,53,L,Kora-kora,Yogyakarta,Promo,Malam,Hujan,Pendek,E-Money,Cukup
+615,12,P,Bianglala,Surabaya,Reguler,Sore,Mendung,Panjang,E-Money,Cukup
+616,36,P,Roller Coaster,Yogyakarta,Reguler,Pagi,Cerah,Panjang,Kartu Kredit,Puas
+617,13,P,Rumah Hantu,Yogyakarta,Promo,Pagi,Mendung,Sedang,Kartu Kredit,Cukup
+618,33,P,Bianglala,Bandung,Reguler,Siang,Hujan,Pendek,Cash,Puas
+619,58,P,Roller Coaster,Yogyakarta,Reguler,Malam,Cerah,Panjang,Cash,Tidak Puas
+620,52,P,Bianglala,Bandung,Reguler,Sore,Mendung,Sedang,Kartu Kredit,Cukup
+621,33,P,Roller Coaster,Surabaya,VIP,Siang,Cerah,Pendek,E-Money,Cukup
+622,18,P,Rumah Hantu,Jakarta,VIP,Pagi,Hujan,Panjang,Cash,Cukup
+623,14,P,Bianglala,Jakarta,Promo,Malam,Cerah,Pendek,Cash,Cukup
+624,19,P,Kora-kora,Surabaya,Promo,Pagi,Cerah,Sedang,E-Money,Puas
+625,36,L,Bianglala,Yogyakarta,VIP,Pagi,Cerah,Panjang,E-Money,Tidak Puas
+626,27,P,Bianglala,Yogyakarta,Promo,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+627,48,L,Kora-kora,Yogyakarta,VIP,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+628,31,L,Kora-kora,Surabaya,VIP,Siang,Hujan,Sedang,Kartu Kredit,Tidak Puas
+629,48,P,Kora-kora,Jakarta,VIP,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+630,12,P,Roller Coaster,Bandung,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+631,10,P,Kora-kora,Jakarta,Reguler,Pagi,Cerah,Sedang,Kartu Kredit,Cukup
+632,47,P,Kora-kora,Surabaya,VIP,Siang,Mendung,Pendek,E-Money,Puas
+633,26,L,Roller Coaster,Jakarta,Reguler,Malam,Hujan,Panjang,E-Money,Puas
+634,51,L,Kora-kora,Yogyakarta,Reguler,Siang,Mendung,Pendek,E-Money,Puas
+635,45,L,Kora-kora,Jakarta,Promo,Pagi,Cerah,Pendek,Cash,Tidak Puas
+636,10,P,Bianglala,Jakarta,Promo,Malam,Mendung,Sedang,Cash,Cukup
+637,10,L,Rumah Hantu,Surabaya,Promo,Siang,Hujan,Panjang,E-Money,Puas
+638,16,L,Roller Coaster,Surabaya,Reguler,Malam,Mendung,Sedang,Cash,Puas
+639,40,L,Roller Coaster,Jakarta,VIP,Sore,Hujan,Pendek,E-Money,Tidak Puas
+640,16,L,Rumah Hantu,Bandung,Promo,Siang,Cerah,Pendek,Cash,Tidak Puas
+641,28,L,Kora-kora,Bandung,Reguler,Sore,Cerah,Sedang,Cash,Puas
+642,35,L,Roller Coaster,Yogyakarta,VIP,Siang,Cerah,Panjang,Cash,Tidak Puas
+643,24,L,Bianglala,Yogyakarta,Promo,Siang,Mendung,Panjang,Kartu Kredit,Puas
+644,32,P,Roller Coaster,Yogyakarta,Reguler,Siang,Hujan,Sedang,E-Money,Cukup
+645,57,L,Roller Coaster,Jakarta,VIP,Siang,Mendung,Sedang,Kartu Kredit,Cukup
+646,10,P,Kora-kora,Jakarta,Reguler,Siang,Hujan,Sedang,Kartu Kredit,Cukup
+647,23,P,Kora-kora,Surabaya,VIP,Sore,Hujan,Pendek,E-Money,Tidak Puas
+648,59,L,Rumah Hantu,Jakarta,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Puas
+649,30,P,Bianglala,Surabaya,Promo,Sore,Cerah,Pendek,Cash,Cukup
+650,41,P,Rumah Hantu,Surabaya,VIP,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+651,53,L,Bianglala,Yogyakarta,Promo,Sore,Cerah,Panjang,Kartu Kredit,Puas
+652,13,P,Rumah Hantu,Bandung,VIP,Malam,Hujan,Panjang,E-Money,Puas
+653,24,L,Rumah Hantu,Bandung,VIP,Malam,Cerah,Sedang,Kartu Kredit,Puas
+654,20,L,Kora-kora,Surabaya,VIP,Siang,Hujan,Sedang,Kartu Kredit,Cukup
+655,59,P,Roller Coaster,Yogyakarta,Reguler,Siang,Cerah,Panjang,E-Money,Puas
+656,14,L,Bianglala,Surabaya,Promo,Siang,Cerah,Sedang,Cash,Puas
+657,49,L,Bianglala,Yogyakarta,Promo,Malam,Mendung,Panjang,Kartu Kredit,Puas
+658,50,L,Rumah Hantu,Bandung,VIP,Siang,Hujan,Pendek,Kartu Kredit,Puas
+659,42,P,Kora-kora,Yogyakarta,Reguler,Malam,Hujan,Sedang,Kartu Kredit,Puas
+660,52,L,Kora-kora,Surabaya,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+661,51,L,Bianglala,Jakarta,VIP,Siang,Cerah,Pendek,Cash,Cukup
+662,47,P,Kora-kora,Bandung,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+663,10,L,Roller Coaster,Bandung,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Tidak Puas
+664,52,L,Rumah Hantu,Bandung,Promo,Malam,Mendung,Panjang,Kartu Kredit,Cukup
+665,34,L,Kora-kora,Surabaya,VIP,Pagi,Cerah,Panjang,Kartu Kredit,Cukup
+666,14,L,Kora-kora,Surabaya,VIP,Malam,Hujan,Panjang,E-Money,Cukup
+667,41,P,Rumah Hantu,Yogyakarta,Reguler,Pagi,Mendung,Pendek,Cash,Puas
+668,41,L,Kora-kora,Yogyakarta,VIP,Siang,Hujan,Panjang,Cash,Puas
+669,35,P,Kora-kora,Jakarta,VIP,Sore,Hujan,Panjang,E-Money,Cukup
+670,57,L,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Panjang,E-Money,Cukup
+671,13,P,Roller Coaster,Yogyakarta,Reguler,Malam,Mendung,Sedang,E-Money,Tidak Puas
+672,15,P,Rumah Hantu,Bandung,Promo,Sore,Mendung,Sedang,Cash,Puas
+673,15,L,Rumah Hantu,Yogyakarta,Promo,Siang,Hujan,Pendek,E-Money,Cukup
+674,52,L,Kora-kora,Surabaya,Promo,Siang,Mendung,Panjang,Kartu Kredit,Puas
+675,19,L,Roller Coaster,Bandung,VIP,Sore,Hujan,Pendek,E-Money,Tidak Puas
+676,17,P,Kora-kora,Jakarta,VIP,Siang,Hujan,Sedang,Cash,Tidak Puas
+677,44,P,Roller Coaster,Yogyakarta,VIP,Siang,Cerah,Sedang,Kartu Kredit,Puas
+678,38,L,Kora-kora,Jakarta,Reguler,Sore,Hujan,Pendek,E-Money,Puas
+679,16,L,Roller Coaster,Yogyakarta,Reguler,Pagi,Mendung,Sedang,E-Money,Tidak Puas
+680,33,L,Roller Coaster,Surabaya,Reguler,Pagi,Cerah,Sedang,E-Money,Cukup
+681,10,P,Rumah Hantu,Yogyakarta,Reguler,Siang,Hujan,Panjang,Kartu Kredit,Tidak Puas
+682,58,P,Kora-kora,Jakarta,VIP,Siang,Hujan,Panjang,Cash,Cukup
+683,47,L,Kora-kora,Yogyakarta,VIP,Sore,Cerah,Panjang,Cash,Puas
+684,24,P,Kora-kora,Surabaya,Promo,Malam,Hujan,Panjang,E-Money,Tidak Puas
+685,44,P,Rumah Hantu,Jakarta,VIP,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+686,55,L,Kora-kora,Bandung,Reguler,Sore,Hujan,Sedang,E-Money,Tidak Puas
+687,47,P,Bianglala,Yogyakarta,VIP,Siang,Cerah,Pendek,Cash,Cukup
+688,12,L,Bianglala,Bandung,Reguler,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+689,34,L,Rumah Hantu,Yogyakarta,Promo,Malam,Mendung,Pendek,Cash,Puas
+690,55,P,Kora-kora,Jakarta,Reguler,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+691,48,P,Roller Coaster,Yogyakarta,Promo,Malam,Mendung,Panjang,E-Money,Tidak Puas
+692,10,P,Roller Coaster,Surabaya,VIP,Malam,Hujan,Sedang,Kartu Kredit,Puas
+693,38,L,Bianglala,Yogyakarta,Reguler,Malam,Hujan,Sedang,Kartu Kredit,Puas
+694,29,P,Roller Coaster,Yogyakarta,Promo,Sore,Hujan,Pendek,Kartu Kredit,Puas
+695,22,L,Roller Coaster,Surabaya,Reguler,Siang,Hujan,Panjang,Cash,Tidak Puas
+696,54,L,Kora-kora,Bandung,Promo,Pagi,Hujan,Sedang,Kartu Kredit,Cukup
+697,37,P,Kora-kora,Surabaya,VIP,Malam,Cerah,Pendek,Kartu Kredit,Puas
+698,10,L,Roller Coaster,Yogyakarta,Reguler,Sore,Cerah,Pendek,Cash,Cukup
+699,59,L,Kora-kora,Jakarta,Promo,Pagi,Hujan,Pendek,Cash,Tidak Puas
+700,52,P,Kora-kora,Yogyakarta,VIP,Sore,Cerah,Pendek,E-Money,Cukup
+701,49,P,Roller Coaster,Surabaya,VIP,Siang,Mendung,Pendek,Cash,Tidak Puas
+702,18,L,Roller Coaster,Surabaya,VIP,Malam,Mendung,Sedang,Cash,Cukup
+703,25,P,Rumah Hantu,Surabaya,Reguler,Malam,Cerah,Panjang,Kartu Kredit,Cukup
+704,38,P,Rumah Hantu,Jakarta,Reguler,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+705,38,P,Kora-kora,Yogyakarta,Promo,Malam,Cerah,Sedang,Cash,Puas
+706,46,P,Roller Coaster,Surabaya,Reguler,Sore,Mendung,Sedang,E-Money,Puas
+707,37,P,Bianglala,Yogyakarta,Reguler,Siang,Mendung,Sedang,E-Money,Puas
+708,38,P,Bianglala,Jakarta,Promo,Malam,Mendung,Sedang,Kartu Kredit,Puas
+709,58,L,Kora-kora,Yogyakarta,Promo,Siang,Cerah,Sedang,Kartu Kredit,Tidak Puas
+710,23,L,Bianglala,Yogyakarta,Promo,Malam,Mendung,Pendek,Cash,Tidak Puas
+711,58,P,Bianglala,Surabaya,Reguler,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+712,41,L,Bianglala,Surabaya,Promo,Sore,Mendung,Pendek,Kartu Kredit,Cukup
+713,59,P,Bianglala,Jakarta,VIP,Siang,Cerah,Pendek,E-Money,Puas
+714,21,L,Roller Coaster,Bandung,VIP,Pagi,Hujan,Sedang,Kartu Kredit,Puas
+715,27,P,Roller Coaster,Bandung,Promo,Siang,Cerah,Sedang,Cash,Cukup
+716,45,P,Rumah Hantu,Yogyakarta,Promo,Sore,Mendung,Panjang,E-Money,Puas
+717,11,P,Roller Coaster,Jakarta,Promo,Malam,Mendung,Panjang,E-Money,Tidak Puas
+718,37,P,Kora-kora,Jakarta,VIP,Malam,Mendung,Pendek,Cash,Cukup
+719,14,P,Bianglala,Jakarta,Reguler,Sore,Hujan,Panjang,Kartu Kredit,Cukup
+720,52,L,Roller Coaster,Surabaya,Promo,Sore,Cerah,Pendek,Kartu Kredit,Puas
+721,45,P,Bianglala,Bandung,VIP,Sore,Mendung,Sedang,E-Money,Puas
+722,16,L,Bianglala,Bandung,Reguler,Siang,Hujan,Pendek,E-Money,Cukup
+723,20,P,Bianglala,Jakarta,VIP,Pagi,Mendung,Pendek,E-Money,Puas
+724,49,L,Kora-kora,Surabaya,VIP,Sore,Mendung,Sedang,Cash,Cukup
+725,11,P,Roller Coaster,Surabaya,Reguler,Siang,Cerah,Panjang,Cash,Cukup
+726,24,P,Rumah Hantu,Jakarta,Reguler,Siang,Cerah,Panjang,Kartu Kredit,Cukup
+727,15,L,Roller Coaster,Jakarta,Reguler,Pagi,Cerah,Pendek,Cash,Cukup
+728,23,L,Kora-kora,Surabaya,Reguler,Siang,Hujan,Panjang,E-Money,Puas
+729,51,P,Bianglala,Jakarta,VIP,Siang,Mendung,Panjang,E-Money,Cukup
+730,51,L,Rumah Hantu,Yogyakarta,Reguler,Pagi,Cerah,Panjang,E-Money,Tidak Puas
+731,43,P,Roller Coaster,Yogyakarta,VIP,Sore,Hujan,Sedang,Cash,Tidak Puas
+732,33,L,Kora-kora,Surabaya,Reguler,Pagi,Cerah,Pendek,E-Money,Puas
+733,45,L,Kora-kora,Bandung,Reguler,Siang,Cerah,Panjang,Cash,Tidak Puas
+734,28,P,Kora-kora,Yogyakarta,Reguler,Pagi,Mendung,Sedang,Cash,Cukup
+735,25,P,Roller Coaster,Jakarta,Reguler,Sore,Mendung,Panjang,E-Money,Tidak Puas
+736,50,L,Roller Coaster,Yogyakarta,VIP,Siang,Cerah,Panjang,Cash,Puas
+737,22,P,Rumah Hantu,Jakarta,Reguler,Siang,Hujan,Sedang,Cash,Tidak Puas
+738,16,L,Rumah Hantu,Bandung,Promo,Malam,Mendung,Sedang,E-Money,Puas
+739,29,L,Bianglala,Bandung,VIP,Pagi,Hujan,Pendek,E-Money,Cukup
+740,43,P,Kora-kora,Surabaya,VIP,Pagi,Cerah,Pendek,E-Money,Puas
+741,18,P,Roller Coaster,Jakarta,Reguler,Sore,Cerah,Pendek,Cash,Puas
+742,23,P,Kora-kora,Jakarta,VIP,Malam,Cerah,Panjang,Cash,Cukup
+743,28,P,Bianglala,Surabaya,VIP,Malam,Cerah,Pendek,E-Money,Tidak Puas
+744,40,P,Rumah Hantu,Jakarta,Reguler,Pagi,Mendung,Sedang,Kartu Kredit,Cukup
+745,12,L,Bianglala,Surabaya,VIP,Sore,Mendung,Panjang,Kartu Kredit,Puas
+746,12,P,Kora-kora,Jakarta,VIP,Siang,Mendung,Pendek,Kartu Kredit,Tidak Puas
+747,16,L,Kora-kora,Jakarta,Reguler,Malam,Cerah,Panjang,Kartu Kredit,Cukup
+748,24,P,Bianglala,Yogyakarta,VIP,Siang,Cerah,Sedang,E-Money,Tidak Puas
+749,49,P,Rumah Hantu,Yogyakarta,VIP,Malam,Mendung,Panjang,E-Money,Puas
+750,37,P,Bianglala,Yogyakarta,VIP,Sore,Mendung,Panjang,Cash,Cukup
+751,50,P,Roller Coaster,Surabaya,Reguler,Sore,Mendung,Panjang,Kartu Kredit,Puas
+752,24,P,Rumah Hantu,Jakarta,Reguler,Sore,Mendung,Panjang,Kartu Kredit,Tidak Puas
+753,54,P,Roller Coaster,Jakarta,Reguler,Sore,Mendung,Pendek,Cash,Puas
+754,46,P,Bianglala,Surabaya,Promo,Sore,Hujan,Panjang,Cash,Puas
+755,50,L,Kora-kora,Yogyakarta,VIP,Pagi,Cerah,Sedang,Kartu Kredit,Puas
+756,58,P,Bianglala,Yogyakarta,VIP,Siang,Hujan,Pendek,Cash,Puas
+757,13,L,Kora-kora,Yogyakarta,Promo,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+758,41,L,Roller Coaster,Bandung,Promo,Pagi,Hujan,Pendek,Cash,Puas
+759,58,L,Rumah Hantu,Yogyakarta,Promo,Siang,Cerah,Panjang,Kartu Kredit,Cukup
+760,33,L,Bianglala,Yogyakarta,Promo,Pagi,Hujan,Pendek,Cash,Cukup
+761,14,P,Bianglala,Bandung,Reguler,Sore,Hujan,Pendek,E-Money,Tidak Puas
+762,26,P,Rumah Hantu,Yogyakarta,VIP,Malam,Hujan,Pendek,E-Money,Cukup
+763,31,P,Kora-kora,Bandung,Reguler,Sore,Cerah,Pendek,E-Money,Puas
+764,43,P,Roller Coaster,Jakarta,Promo,Siang,Hujan,Pendek,E-Money,Cukup
+765,15,L,Rumah Hantu,Jakarta,VIP,Pagi,Hujan,Sedang,Cash,Puas
+766,17,L,Bianglala,Bandung,Promo,Siang,Hujan,Pendek,E-Money,Cukup
+767,55,P,Bianglala,Jakarta,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Puas
+768,37,L,Rumah Hantu,Surabaya,Reguler,Siang,Hujan,Panjang,E-Money,Tidak Puas
+769,35,P,Kora-kora,Yogyakarta,VIP,Malam,Cerah,Sedang,E-Money,Cukup
+770,32,L,Roller Coaster,Surabaya,VIP,Sore,Cerah,Panjang,Cash,Tidak Puas
+771,11,P,Roller Coaster,Yogyakarta,Promo,Malam,Mendung,Sedang,E-Money,Puas
+772,22,L,Kora-kora,Jakarta,Reguler,Pagi,Cerah,Panjang,Cash,Puas
+773,12,P,Roller Coaster,Bandung,Reguler,Pagi,Mendung,Pendek,Cash,Cukup
+774,13,P,Roller Coaster,Yogyakarta,VIP,Sore,Hujan,Panjang,E-Money,Tidak Puas
+775,34,L,Bianglala,Surabaya,VIP,Malam,Hujan,Pendek,Kartu Kredit,Cukup
+776,10,L,Rumah Hantu,Surabaya,Reguler,Sore,Mendung,Panjang,Kartu Kredit,Puas
+777,58,L,Roller Coaster,Yogyakarta,Reguler,Malam,Mendung,Panjang,E-Money,Cukup
+778,53,L,Rumah Hantu,Surabaya,Reguler,Pagi,Cerah,Sedang,E-Money,Cukup
+779,53,P,Roller Coaster,Jakarta,Reguler,Pagi,Mendung,Panjang,Kartu Kredit,Tidak Puas
+780,39,L,Bianglala,Yogyakarta,Promo,Malam,Mendung,Sedang,Cash,Tidak Puas
+781,34,L,Kora-kora,Bandung,Reguler,Sore,Hujan,Sedang,E-Money,Tidak Puas
+782,54,L,Kora-kora,Yogyakarta,Promo,Sore,Mendung,Sedang,E-Money,Tidak Puas
+783,52,P,Rumah Hantu,Yogyakarta,VIP,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+784,24,P,Kora-kora,Jakarta,Reguler,Pagi,Cerah,Pendek,E-Money,Cukup
+785,39,P,Kora-kora,Surabaya,VIP,Malam,Hujan,Sedang,Kartu Kredit,Cukup
+786,51,P,Bianglala,Bandung,Promo,Sore,Cerah,Pendek,E-Money,Cukup
+787,22,P,Bianglala,Yogyakarta,VIP,Sore,Hujan,Sedang,Kartu Kredit,Puas
+788,24,L,Kora-kora,Bandung,VIP,Sore,Hujan,Panjang,Cash,Puas
+789,18,P,Kora-kora,Bandung,Promo,Malam,Cerah,Pendek,Kartu Kredit,Tidak Puas
+790,46,P,Roller Coaster,Yogyakarta,Reguler,Malam,Mendung,Pendek,E-Money,Tidak Puas
+791,57,L,Kora-kora,Bandung,Promo,Sore,Cerah,Sedang,Kartu Kredit,Tidak Puas
+792,35,P,Kora-kora,Bandung,Promo,Pagi,Hujan,Panjang,Kartu Kredit,Cukup
+793,39,L,Rumah Hantu,Surabaya,VIP,Malam,Mendung,Panjang,E-Money,Puas
+794,48,L,Roller Coaster,Jakarta,Reguler,Pagi,Hujan,Panjang,Cash,Puas
+795,47,L,Rumah Hantu,Yogyakarta,VIP,Siang,Hujan,Pendek,E-Money,Tidak Puas
+796,53,L,Roller Coaster,Surabaya,Reguler,Siang,Hujan,Sedang,E-Money,Cukup
+797,24,L,Roller Coaster,Jakarta,Reguler,Malam,Hujan,Pendek,Cash,Tidak Puas
+798,55,L,Kora-kora,Surabaya,Reguler,Pagi,Hujan,Sedang,E-Money,Puas
+799,20,L,Roller Coaster,Yogyakarta,Promo,Pagi,Hujan,Pendek,E-Money,Puas
+800,44,L,Bianglala,Bandung,Promo,Pagi,Hujan,Pendek,Kartu Kredit,Puas
+801,10,P,Roller Coaster,Surabaya,Promo,Pagi,Mendung,Panjang,Cash,Puas
+802,12,L,Kora-kora,Surabaya,VIP,Siang,Cerah,Pendek,E-Money,Tidak Puas
+803,24,P,Bianglala,Surabaya,Promo,Sore,Mendung,Pendek,Kartu Kredit,Cukup
+804,29,L,Roller Coaster,Surabaya,VIP,Malam,Mendung,Sedang,Cash,Tidak Puas
+805,23,P,Rumah Hantu,Bandung,Reguler,Malam,Hujan,Pendek,Kartu Kredit,Cukup
+806,18,L,Roller Coaster,Surabaya,Promo,Siang,Cerah,Sedang,Cash,Cukup
+807,21,L,Bianglala,Jakarta,Promo,Siang,Mendung,Sedang,Kartu Kredit,Puas
+808,44,L,Bianglala,Jakarta,VIP,Siang,Hujan,Pendek,E-Money,Puas
+809,44,P,Roller Coaster,Yogyakarta,Promo,Pagi,Hujan,Sedang,E-Money,Tidak Puas
+810,36,P,Roller Coaster,Jakarta,Reguler,Sore,Hujan,Sedang,Kartu Kredit,Puas
+811,12,P,Rumah Hantu,Jakarta,Reguler,Pagi,Mendung,Panjang,Kartu Kredit,Puas
+812,32,P,Kora-kora,Surabaya,Promo,Malam,Cerah,Pendek,Kartu Kredit,Tidak Puas
+813,45,L,Bianglala,Surabaya,Promo,Malam,Hujan,Pendek,Kartu Kredit,Puas
+814,16,L,Roller Coaster,Surabaya,Reguler,Malam,Cerah,Panjang,E-Money,Tidak Puas
+815,43,L,Roller Coaster,Bandung,Promo,Malam,Hujan,Panjang,E-Money,Cukup
+816,14,P,Rumah Hantu,Surabaya,VIP,Siang,Mendung,Pendek,Kartu Kredit,Tidak Puas
+817,53,L,Roller Coaster,Jakarta,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+818,59,P,Bianglala,Yogyakarta,Reguler,Malam,Mendung,Pendek,E-Money,Tidak Puas
+819,16,L,Rumah Hantu,Bandung,Promo,Pagi,Mendung,Panjang,E-Money,Cukup
+820,40,P,Roller Coaster,Bandung,VIP,Siang,Cerah,Sedang,Kartu Kredit,Puas
+821,19,P,Roller Coaster,Jakarta,Promo,Malam,Mendung,Panjang,Kartu Kredit,Tidak Puas
+822,29,P,Bianglala,Jakarta,Promo,Siang,Cerah,Pendek,E-Money,Tidak Puas
+823,34,L,Kora-kora,Surabaya,VIP,Pagi,Cerah,Pendek,Kartu Kredit,Tidak Puas
+824,49,L,Roller Coaster,Bandung,Reguler,Siang,Cerah,Sedang,Cash,Puas
+825,13,P,Roller Coaster,Surabaya,Reguler,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+826,53,P,Roller Coaster,Surabaya,Promo,Siang,Mendung,Sedang,Cash,Puas
+827,14,L,Rumah Hantu,Surabaya,Promo,Malam,Cerah,Panjang,Kartu Kredit,Puas
+828,55,P,Rumah Hantu,Yogyakarta,VIP,Siang,Cerah,Panjang,Kartu Kredit,Cukup
+829,41,L,Kora-kora,Yogyakarta,VIP,Siang,Hujan,Pendek,Cash,Cukup
+830,13,P,Rumah Hantu,Bandung,Reguler,Siang,Hujan,Sedang,E-Money,Cukup
+831,48,L,Roller Coaster,Jakarta,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Cukup
+832,35,P,Bianglala,Yogyakarta,VIP,Siang,Hujan,Panjang,Kartu Kredit,Cukup
+833,50,L,Kora-kora,Surabaya,VIP,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+834,12,P,Kora-kora,Jakarta,VIP,Siang,Mendung,Pendek,E-Money,Tidak Puas
+835,46,P,Kora-kora,Surabaya,Reguler,Malam,Mendung,Pendek,E-Money,Cukup
+836,27,P,Roller Coaster,Bandung,Promo,Malam,Mendung,Panjang,Cash,Puas
+837,40,P,Kora-kora,Bandung,Reguler,Sore,Mendung,Pendek,E-Money,Cukup
+838,36,L,Rumah Hantu,Surabaya,VIP,Pagi,Hujan,Panjang,Cash,Puas
+839,53,L,Kora-kora,Surabaya,VIP,Siang,Mendung,Panjang,Cash,Puas
+840,18,L,Kora-kora,Bandung,Promo,Malam,Mendung,Panjang,E-Money,Puas
+841,43,L,Roller Coaster,Yogyakarta,VIP,Malam,Mendung,Sedang,Cash,Tidak Puas
+842,34,L,Kora-kora,Jakarta,VIP,Sore,Cerah,Panjang,Cash,Tidak Puas
+843,38,L,Kora-kora,Yogyakarta,Promo,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+844,16,P,Rumah Hantu,Bandung,Reguler,Siang,Cerah,Panjang,Kartu Kredit,Cukup
+845,38,P,Rumah Hantu,Jakarta,Promo,Malam,Cerah,Panjang,Cash,Tidak Puas
+846,41,L,Rumah Hantu,Yogyakarta,VIP,Sore,Hujan,Panjang,Cash,Cukup
+847,30,P,Roller Coaster,Bandung,Promo,Malam,Mendung,Sedang,E-Money,Puas
+848,41,L,Rumah Hantu,Jakarta,VIP,Siang,Mendung,Panjang,E-Money,Tidak Puas
+849,27,L,Kora-kora,Yogyakarta,Promo,Pagi,Hujan,Panjang,Cash,Cukup
+850,32,P,Bianglala,Bandung,Reguler,Pagi,Hujan,Pendek,E-Money,Tidak Puas
+851,45,L,Bianglala,Jakarta,VIP,Pagi,Mendung,Sedang,Cash,Cukup
+852,10,P,Roller Coaster,Bandung,VIP,Siang,Hujan,Pendek,E-Money,Puas
+853,10,L,Roller Coaster,Yogyakarta,Reguler,Sore,Mendung,Sedang,Cash,Tidak Puas
+854,37,L,Roller Coaster,Jakarta,Reguler,Malam,Hujan,Sedang,Cash,Puas
+855,10,P,Bianglala,Yogyakarta,Promo,Pagi,Cerah,Pendek,Kartu Kredit,Puas
+856,33,P,Kora-kora,Surabaya,Reguler,Pagi,Cerah,Panjang,Kartu Kredit,Puas
+857,12,L,Rumah Hantu,Bandung,Reguler,Pagi,Cerah,Pendek,Kartu Kredit,Cukup
+858,43,L,Rumah Hantu,Jakarta,Reguler,Siang,Mendung,Sedang,Cash,Tidak Puas
+859,33,P,Bianglala,Surabaya,Reguler,Sore,Cerah,Panjang,E-Money,Tidak Puas
+860,13,L,Rumah Hantu,Surabaya,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+861,48,L,Rumah Hantu,Surabaya,Reguler,Pagi,Cerah,Panjang,Kartu Kredit,Cukup
+862,51,P,Rumah Hantu,Surabaya,VIP,Malam,Cerah,Pendek,Cash,Puas
+863,24,P,Rumah Hantu,Jakarta,VIP,Sore,Cerah,Sedang,Kartu Kredit,Tidak Puas
+864,13,L,Roller Coaster,Jakarta,Reguler,Malam,Mendung,Sedang,Cash,Cukup
+865,15,P,Roller Coaster,Bandung,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+866,22,P,Rumah Hantu,Yogyakarta,Promo,Sore,Cerah,Pendek,Cash,Cukup
+867,19,L,Bianglala,Bandung,Promo,Sore,Cerah,Panjang,Kartu Kredit,Cukup
+868,19,P,Roller Coaster,Surabaya,Promo,Pagi,Cerah,Pendek,Cash,Puas
+869,19,P,Kora-kora,Bandung,Reguler,Sore,Cerah,Pendek,Cash,Tidak Puas
+870,28,L,Roller Coaster,Jakarta,VIP,Malam,Mendung,Pendek,Cash,Cukup
+871,21,P,Rumah Hantu,Surabaya,Reguler,Sore,Mendung,Panjang,E-Money,Tidak Puas
+872,48,P,Rumah Hantu,Jakarta,Promo,Siang,Cerah,Sedang,E-Money,Tidak Puas
+873,28,L,Bianglala,Bandung,Promo,Malam,Cerah,Panjang,E-Money,Tidak Puas
+874,42,P,Bianglala,Jakarta,Promo,Siang,Hujan,Panjang,E-Money,Cukup
+875,26,P,Rumah Hantu,Yogyakarta,VIP,Siang,Hujan,Sedang,Kartu Kredit,Cukup
+876,22,L,Kora-kora,Jakarta,Reguler,Siang,Hujan,Panjang,E-Money,Cukup
+877,57,L,Roller Coaster,Surabaya,VIP,Sore,Hujan,Sedang,Cash,Puas
+878,53,L,Roller Coaster,Bandung,Reguler,Pagi,Mendung,Panjang,E-Money,Puas
+879,46,L,Rumah Hantu,Jakarta,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Tidak Puas
+880,37,L,Bianglala,Jakarta,VIP,Pagi,Cerah,Sedang,Cash,Tidak Puas
+881,18,L,Rumah Hantu,Bandung,Reguler,Pagi,Mendung,Panjang,Cash,Tidak Puas
+882,13,L,Roller Coaster,Jakarta,VIP,Pagi,Cerah,Panjang,Cash,Puas
+883,15,P,Bianglala,Jakarta,Reguler,Malam,Mendung,Panjang,E-Money,Tidak Puas
+884,25,L,Rumah Hantu,Jakarta,VIP,Malam,Cerah,Sedang,Kartu Kredit,Cukup
+885,54,L,Rumah Hantu,Bandung,Promo,Pagi,Hujan,Pendek,Kartu Kredit,Cukup
+886,54,L,Kora-kora,Bandung,Reguler,Pagi,Cerah,Panjang,Kartu Kredit,Tidak Puas
+887,47,L,Rumah Hantu,Bandung,Promo,Malam,Cerah,Sedang,Cash,Tidak Puas
+888,40,P,Roller Coaster,Bandung,Reguler,Malam,Cerah,Pendek,Kartu Kredit,Puas
+889,14,P,Roller Coaster,Bandung,Reguler,Siang,Cerah,Sedang,E-Money,Puas
+890,15,L,Kora-kora,Jakarta,Promo,Sore,Cerah,Sedang,Cash,Cukup
+891,33,P,Rumah Hantu,Yogyakarta,Promo,Sore,Cerah,Pendek,E-Money,Puas
+892,22,L,Rumah Hantu,Bandung,Reguler,Malam,Mendung,Panjang,Kartu Kredit,Cukup
+893,23,L,Roller Coaster,Yogyakarta,Reguler,Pagi,Hujan,Sedang,Cash,Cukup
+894,54,L,Kora-kora,Surabaya,VIP,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+895,28,P,Roller Coaster,Surabaya,Promo,Malam,Mendung,Pendek,E-Money,Cukup
+896,15,P,Bianglala,Jakarta,Reguler,Sore,Cerah,Sedang,E-Money,Tidak Puas
+897,47,L,Roller Coaster,Jakarta,VIP,Sore,Hujan,Panjang,Kartu Kredit,Puas
+898,40,L,Roller Coaster,Yogyakarta,Promo,Siang,Cerah,Panjang,Kartu Kredit,Tidak Puas
+899,51,L,Kora-kora,Jakarta,Reguler,Malam,Cerah,Sedang,Cash,Puas
+900,40,P,Kora-kora,Surabaya,Reguler,Pagi,Mendung,Panjang,Cash,Cukup
+901,11,P,Roller Coaster,Bandung,Reguler,Siang,Hujan,Pendek,Cash,Tidak Puas
+902,37,L,Kora-kora,Bandung,Promo,Malam,Mendung,Pendek,Cash,Cukup
+903,29,P,Roller Coaster,Yogyakarta,Promo,Malam,Cerah,Panjang,Cash,Puas
+904,17,P,Roller Coaster,Surabaya,VIP,Siang,Mendung,Pendek,E-Money,Tidak Puas
+905,58,L,Kora-kora,Bandung,VIP,Sore,Cerah,Pendek,Kartu Kredit,Puas
+906,44,P,Rumah Hantu,Surabaya,Promo,Sore,Mendung,Panjang,Kartu Kredit,Tidak Puas
+907,53,L,Roller Coaster,Yogyakarta,VIP,Siang,Hujan,Pendek,Kartu Kredit,Puas
+908,22,L,Bianglala,Jakarta,Reguler,Pagi,Hujan,Sedang,Kartu Kredit,Puas
+909,45,L,Roller Coaster,Surabaya,Promo,Malam,Cerah,Panjang,Cash,Tidak Puas
+910,20,P,Bianglala,Bandung,Promo,Pagi,Cerah,Panjang,E-Money,Puas
+911,25,L,Roller Coaster,Yogyakarta,VIP,Malam,Cerah,Pendek,E-Money,Cukup
+912,21,L,Bianglala,Yogyakarta,Promo,Siang,Mendung,Sedang,Cash,Tidak Puas
+913,11,L,Bianglala,Jakarta,Promo,Sore,Hujan,Panjang,Cash,Cukup
+914,48,P,Bianglala,Bandung,VIP,Pagi,Cerah,Pendek,Kartu Kredit,Tidak Puas
+915,31,P,Bianglala,Surabaya,Reguler,Sore,Mendung,Pendek,Kartu Kredit,Puas
+916,58,L,Rumah Hantu,Bandung,Reguler,Pagi,Hujan,Pendek,E-Money,Puas
+917,21,L,Roller Coaster,Yogyakarta,Reguler,Malam,Mendung,Panjang,Kartu Kredit,Tidak Puas
+918,49,L,Bianglala,Surabaya,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+919,12,L,Bianglala,Jakarta,Promo,Malam,Cerah,Pendek,Kartu Kredit,Cukup
+920,31,L,Rumah Hantu,Bandung,VIP,Pagi,Mendung,Pendek,Kartu Kredit,Cukup
+921,23,P,Rumah Hantu,Yogyakarta,VIP,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+922,15,L,Bianglala,Yogyakarta,VIP,Sore,Cerah,Sedang,E-Money,Cukup
+923,19,P,Bianglala,Bandung,Promo,Malam,Cerah,Sedang,E-Money,Tidak Puas
+924,25,L,Kora-kora,Surabaya,VIP,Sore,Mendung,Panjang,Kartu Kredit,Cukup
+925,12,L,Roller Coaster,Yogyakarta,Reguler,Siang,Hujan,Sedang,Cash,Cukup
+926,58,L,Rumah Hantu,Bandung,Reguler,Sore,Mendung,Panjang,E-Money,Puas
+927,27,P,Rumah Hantu,Surabaya,Promo,Sore,Hujan,Pendek,E-Money,Puas
+928,16,P,Rumah Hantu,Bandung,VIP,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+929,48,P,Bianglala,Surabaya,VIP,Siang,Hujan,Sedang,E-Money,Tidak Puas
+930,11,L,Rumah Hantu,Bandung,Promo,Siang,Hujan,Sedang,E-Money,Tidak Puas
+931,27,L,Roller Coaster,Bandung,VIP,Siang,Hujan,Panjang,E-Money,Cukup
+932,27,P,Bianglala,Jakarta,VIP,Siang,Mendung,Pendek,E-Money,Puas
+933,24,L,Roller Coaster,Jakarta,VIP,Malam,Mendung,Panjang,E-Money,Cukup
+934,21,L,Rumah Hantu,Yogyakarta,Reguler,Pagi,Cerah,Pendek,Kartu Kredit,Cukup
+935,50,L,Bianglala,Surabaya,Promo,Siang,Cerah,Pendek,Kartu Kredit,Cukup
+936,44,P,Kora-kora,Jakarta,Reguler,Malam,Mendung,Sedang,Kartu Kredit,Puas
+937,41,P,Roller Coaster,Surabaya,Reguler,Siang,Mendung,Panjang,Cash,Puas
+938,36,P,Kora-kora,Surabaya,VIP,Malam,Cerah,Panjang,Cash,Cukup
+939,47,L,Kora-kora,Yogyakarta,Reguler,Siang,Mendung,Sedang,E-Money,Puas
+940,58,L,Rumah Hantu,Bandung,Promo,Siang,Mendung,Panjang,Kartu Kredit,Puas
+941,40,L,Bianglala,Surabaya,Reguler,Sore,Mendung,Pendek,Cash,Tidak Puas
+942,34,L,Rumah Hantu,Jakarta,Promo,Siang,Cerah,Sedang,Cash,Puas
+943,16,P,Rumah Hantu,Yogyakarta,Promo,Malam,Hujan,Panjang,Kartu Kredit,Cukup
+944,11,L,Rumah Hantu,Jakarta,Reguler,Siang,Cerah,Panjang,E-Money,Cukup
+945,50,P,Rumah Hantu,Surabaya,Reguler,Malam,Cerah,Sedang,Cash,Cukup
+946,29,P,Rumah Hantu,Jakarta,Reguler,Malam,Cerah,Panjang,Cash,Puas
+947,54,P,Bianglala,Surabaya,Promo,Malam,Hujan,Sedang,Kartu Kredit,Cukup
+948,46,P,Bianglala,Jakarta,Promo,Pagi,Cerah,Panjang,Cash,Puas
+949,47,L,Roller Coaster,Surabaya,VIP,Malam,Hujan,Sedang,E-Money,Tidak Puas
+950,31,L,Roller Coaster,Jakarta,VIP,Malam,Cerah,Pendek,Kartu Kredit,Puas
+951,19,P,Bianglala,Surabaya,VIP,Pagi,Mendung,Pendek,E-Money,Cukup
+952,39,P,Kora-kora,Surabaya,Reguler,Siang,Cerah,Panjang,Cash,Tidak Puas
+953,10,P,Bianglala,Jakarta,Reguler,Sore,Mendung,Pendek,E-Money,Tidak Puas
+954,51,L,Bianglala,Bandung,Promo,Siang,Hujan,Pendek,Cash,Puas
+955,46,L,Bianglala,Bandung,Reguler,Pagi,Hujan,Panjang,E-Money,Tidak Puas
+956,10,L,Rumah Hantu,Bandung,VIP,Pagi,Mendung,Pendek,E-Money,Tidak Puas
+957,43,L,Kora-kora,Bandung,VIP,Siang,Hujan,Panjang,E-Money,Cukup
+958,58,L,Rumah Hantu,Bandung,Promo,Sore,Mendung,Pendek,Cash,Cukup
+959,40,P,Rumah Hantu,Jakarta,Promo,Sore,Hujan,Pendek,Kartu Kredit,Cukup
+960,30,P,Roller Coaster,Bandung,Reguler,Malam,Hujan,Sedang,E-Money,Cukup
+961,19,L,Roller Coaster,Yogyakarta,VIP,Malam,Hujan,Panjang,E-Money,Tidak Puas
+962,49,L,Rumah Hantu,Jakarta,VIP,Sore,Hujan,Sedang,Kartu Kredit,Cukup
+963,35,P,Roller Coaster,Yogyakarta,VIP,Malam,Mendung,Sedang,Cash,Puas
+964,57,P,Bianglala,Jakarta,Promo,Sore,Hujan,Sedang,Kartu Kredit,Tidak Puas
+965,32,L,Bianglala,Yogyakarta,Reguler,Pagi,Mendung,Sedang,Kartu Kredit,Tidak Puas
+966,31,P,Roller Coaster,Surabaya,Reguler,Malam,Mendung,Sedang,Cash,Puas
+967,11,L,Kora-kora,Jakarta,Reguler,Siang,Hujan,Pendek,E-Money,Cukup
+968,45,L,Kora-kora,Bandung,Reguler,Siang,Hujan,Panjang,Kartu Kredit,Cukup
+969,44,L,Kora-kora,Jakarta,Reguler,Pagi,Hujan,Sedang,Cash,Cukup
+970,58,P,Kora-kora,Yogyakarta,Reguler,Sore,Hujan,Sedang,Kartu Kredit,Tidak Puas
+971,37,L,Rumah Hantu,Bandung,Promo,Pagi,Mendung,Sedang,E-Money,Puas
+972,55,P,Rumah Hantu,Yogyakarta,Reguler,Pagi,Mendung,Panjang,Cash,Puas
+973,17,L,Rumah Hantu,Surabaya,VIP,Pagi,Mendung,Panjang,E-Money,Puas
+974,23,P,Rumah Hantu,Jakarta,Promo,Pagi,Hujan,Panjang,Cash,Tidak Puas
+975,54,P,Bianglala,Bandung,Reguler,Siang,Cerah,Sedang,E-Money,Puas
+976,32,L,Rumah Hantu,Surabaya,Promo,Malam,Mendung,Panjang,Cash,Cukup
+977,11,L,Kora-kora,Bandung,Promo,Siang,Hujan,Sedang,Cash,Puas
+978,27,P,Kora-kora,Bandung,VIP,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+979,18,L,Rumah Hantu,Jakarta,Reguler,Malam,Cerah,Sedang,E-Money,Cukup
+980,47,P,Kora-kora,Bandung,VIP,Malam,Hujan,Panjang,Kartu Kredit,Tidak Puas
+981,52,P,Rumah Hantu,Yogyakarta,Promo,Sore,Hujan,Panjang,Kartu Kredit,Tidak Puas
+982,37,P,Roller Coaster,Surabaya,Promo,Pagi,Cerah,Sedang,Cash,Cukup
+983,18,P,Roller Coaster,Yogyakarta,Promo,Sore,Hujan,Sedang,Cash,Cukup
+984,33,P,Roller Coaster,Bandung,Reguler,Sore,Hujan,Sedang,Cash,Puas
+985,52,L,Kora-kora,Jakarta,Reguler,Pagi,Mendung,Sedang,Cash,Puas
+986,17,L,Rumah Hantu,Yogyakarta,VIP,Malam,Mendung,Sedang,E-Money,Tidak Puas
+987,15,P,Roller Coaster,Jakarta,Promo,Siang,Mendung,Pendek,Kartu Kredit,Cukup
+988,37,L,Bianglala,Surabaya,Reguler,Malam,Hujan,Sedang,Cash,Puas
+989,20,L,Roller Coaster,Surabaya,Reguler,Sore,Hujan,Sedang,Cash,Tidak Puas
+990,14,L,Rumah Hantu,Surabaya,VIP,Malam,Mendung,Sedang,E-Money,Tidak Puas
+991,45,P,Kora-kora,Surabaya,Reguler,Siang,Cerah,Panjang,E-Money,Puas
+992,22,P,Bianglala,Jakarta,VIP,Pagi,Cerah,Sedang,Cash,Cukup
+993,15,L,Kora-kora,Surabaya,Promo,Siang,Mendung,Panjang,Kartu Kredit,Cukup
+994,14,L,Bianglala,Yogyakarta,Promo,Sore,Mendung,Pendek,Cash,Tidak Puas
+995,49,L,Roller Coaster,Yogyakarta,VIP,Sore,Cerah,Sedang,Kartu Kredit,Cukup
+996,38,P,Kora-kora,Yogyakarta,Promo,Pagi,Hujan,Pendek,Cash,Tidak Puas
+997,52,P,Kora-kora,Surabaya,Promo,Sore,Mendung,Sedang,Kartu Kredit,Cukup
+998,44,P,Bianglala,Bandung,Reguler,Sore,Mendung,Sedang,Kartu Kredit,Cukup
+999,51,L,Roller Coaster,Jakarta,VIP,Malam,Hujan,Panjang,Cash,Cukup
